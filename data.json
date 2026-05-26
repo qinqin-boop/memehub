@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26 15:49",
+  "updated_at": "2026-05-26 16:13",
   "memes": [
     {
       "title": "EXO 第13人 曾经的王 King",
@@ -248,6 +248,80 @@
           "@水墨粤语教学 (杀神哥粤语版原)",
           "方言达人/语言学博主",
           "粤语翻唱博主"
+        ]
+      }
+    },
+    {
+      "title": "不如喘口气吧小大人 / 真心很贵",
+      "source": "抖音",
+      "date": "2026-05",
+      "heat": "27.6万 / 10.5万 / 6.0万 多账号铺",
+      "domain": "热点梗",
+      "analysis": "抽象温柔梗, 歌词式句段: '不如喘口气吧小大人. 真心很贵. 不要什么都往心里去. 没心没肺才能活的不累. 真心很贵你别逢人就给. 感情很重你别轻易卑微.' 萌系 emoji 大量配合, 用在自嘲精神内耗/情感建议/打工人话题, 治愈+无奈+劝慰三合一. 蛋仔派对+脸式舞+游戏角色 (高松灯/芮娜) 都在用.",
+      "prompts": {
+        "Sora": "A cute illustrated character (mascot style) sits on a tiny chair sighing softly with text-message bubbles floating up: 'rest a bit, little adult', 'sincerity is expensive', 'don't give your heart away too easily'. Soft pastel pink and lavender palette, gentle lo-fi mood, 9:16 vertical, 10 seconds.",
+        "Kling": "可爱吉祥物角色坐小椅子轻叹气, 文字气泡漂浮: '不如喘口气吧小大人' '真心很贵' '别逢人就给'. 粉紫柔和色调, lo-fi 治愈氛围, 9:16, 10秒",
+        "Pika": "Mascot sighs gently, text bubbles float, pastel pink lavender, lo-fi healing mood, vertical 9:16, 10s"
+      },
+      "characters": {
+        "game": [
+          "蛋仔派对 蛋小黑 (萌叹气)",
+          "无畏契约 芮娜 (走心局)",
+          "BanG Dream 高松灯 (温柔治愈系)"
+        ],
+        "blogger": [
+          "@听雨声降临 (27.6w 原)",
+          "@阿Sir (脸式舞版)",
+          "@十三、 (蛋仔派对版)"
+        ]
+      }
+    },
+    {
+      "title": "跳跃不是罪过",
+      "source": "抖音 (三角洲行动 BGM 二创)",
+      "date": "2026-04-05",
+      "heat": "4月份热梗合集 1.7w+",
+      "domain": "热门配音",
+      "analysis": "三角洲行动玩家 jump-shot 老梗复用: '跳跃不是罪过, 跳是为了活'. 适合任何打游戏被人嘲笑'你怎么老跳' 反讽 / 职场被批 '你怎么老闪躲' 反讽. 旋律抓耳, 是个 BGM-style 梗.",
+      "prompts": {
+        "Sora": "A gamer character mid-air in a jumping motion against a tactical FPS background, dust particles, frozen action shot. Text overlay '跳跃不是罪过 跳是为了活'. Bold game-trailer style, dramatic lighting, 9:16 vertical, 6 seconds.",
+        "Kling": "FPS 玩家角色空中跳跃定格, 战术背景+尘土粒子. 字幕'跳跃不是罪过 跳是为了活'. 游戏宣传片风格, 戏剧灯光, 9:16, 6秒",
+        "Pika": "Gamer mid-jump tactical FPS bg, action freeze, dust particles, subtitle 跳跃不是罪过 跳是为了活, game trailer, 9:16, 6s"
+      },
+      "characters": {
+        "game": [
+          "三角洲行动 突击兵",
+          "和平精英 跳跳乐玩家",
+          "无畏契约 Jett (跳箱大师)"
+        ],
+        "blogger": [
+          "@多巴安工作室 (4月热梗大盘点)",
+          "FPS 教学博主类",
+          "游戏吐槽博主"
+        ]
+      }
+    },
+    {
+      "title": "评论区审美积累",
+      "source": "抖音 (吴拽拽 IP)",
+      "date": "持续翻红",
+      "heat": "59.2万",
+      "domain": "热点梗",
+      "analysis": "抖音评论区中网友互相 '审美积累' 的截图合集. 当某条视频出现真知灼见的高赞评论时, 网友说'又是评论区审美积累的一天'. 适合任何视频末尾切到评论区 + 高亮高赞评论的格式. 反思/感悟/共鸣类内容标配.",
+      "prompts": {
+        "Sora": "A vertical phone screen mockup showing a TikTok-style comment section scrolling up, the top comment is highlighted with golden glow, text overlay '评论区审美积累'. Modern UI design, smooth scroll animation, 9:16 vertical, 8 seconds.",
+        "Kling": "竖屏手机界面: 抖音风格评论区上滚, 顶部高赞评论金色发光高亮, 字幕'评论区审美积累'. 现代 UI, 平滑滚动, 9:16, 8秒",
+        "Pika": "Vertical phone mockup TikTok comment section scrolling, top comment golden glow, subtitle 评论区审美积累, modern UI, 9:16, 8s"
+      },
+      "characters": {
+        "game": [
+          "用户头像可配各种游戏角色",
+          "贴吧老哥/B站老二次元 cosplay"
+        ],
+        "blogger": [
+          "@吴拽拽 (评论区审美积累 IP, 59.2w 原)",
+          "@哥也是布林 (抖音梗合集)",
+          "段子搬运博主"
         ]
       }
     }
