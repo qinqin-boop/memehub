@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-05-26 15:35",
+  "updated_at": "2026-05-26 15:49",
   "memes": [
+    {
+      "title": "EXO 第13人 曾经的王 King",
+      "source": "抖音 (抽象集体造梗)",
+      "date": "2026-04-30 起 当下持续",
+      "heat": "11.2万 / 6.7万 / 8793 多账号铺",
+      "domain": "热点梗",
+      "analysis": "网友集体造梗虚构的 EXO 第 13 人, 中文'曾经的王' 国际'King'. 完整虚构设定: 云南农村出身/出道即巅峰/影响力堪比 MJ/公开恋情遭全网封杀/记忆篡改全网装信他存在过. 抽象+团魂+集体玩笑+假记忆, 二创空间大. 适合做'网络人物志 / 篡改记忆 / 都市传说 / 抽象 RP' 类内容.",
+      "prompts": {
+        "Sora": "A faux-documentary intro in style of a tabloid bio episode: dim lighting, vintage photograph montage of a fictional male K-pop star labeled 'King - the 13th member of EXO'. Slow zoom on a faded photo, dramatic voiceover narrates 'remember when 9 became 13'. Aged film grain texture, sepia tones, mock-archive footage style, 16:9 horizontal, 12 seconds.",
+        "Kling": "伪纪录片人物志开场: 昏暗灯光, 假冒K-pop明星老照片蒙太奇, 字幕'King - EXO第13人'. 慢推褪色老照片, 戏剧旁白'9 人变 13 人记得吗'. 复古胶片质感, 棕褐色调, 仿存档素材, 16:9, 12秒",
+        "Pika": "Fake bio doc intro of fictional King 13th EXO member, vintage photo montage, sepia tones, dramatic narration, 16:9, 12s"
+      },
+      "characters": {
+        "game": [
+          "原神 散兵 (神秘消失角色对位)",
+          "崩坏3 渡鸦 (隐藏boss感)",
+          "王者荣耀 大乔/小乔 (双子设定+消失)"
+        ],
+        "blogger": [
+          "@Girl不爱啰嗦 (集体记忆篡改解读 11.2w)",
+          "@人物志bot (网络人物志第111期)",
+          "@yan ting (King 完整剧情构建)"
+        ]
+      }
+    },
     {
       "title": "上海二工大学生喊杀杀杀",
       "source": "抖音 / 新闻",
