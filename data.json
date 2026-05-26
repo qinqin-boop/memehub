@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-26 15:25",
+  "updated_at": "2026-05-26 15:35",
   "memes": [
     {
       "title": "上海二工大学生喊杀杀杀",
       "source": "抖音 / 新闻",
       "date": "2026-05-20 起 (4-6 天前)",
       "heat": "159.3万 / 6.7万 等多条 100w+",
-      "domain": "热点事件",
-      "analysis": "上海第二工业大学一学生上课迟到睡觉, 被老师提醒后情绪失控砸讲台对老师怒吼'杀杀杀'. 校方称已介入安抚, 称学生有心理压力. 网友炸锅, 引发讨论 '校园不能只会安抚不会裁决' / 师生关系 / 心理健康 / 学校处理方式. 上下文 + 戏剧反转 + 真实素材 + 社会议题, 抖音算法高度推. 二创空间巨大.",
+      "domain": "热点梗",
+      "analysis": "上海第二工业大学一学生上课迟到睡觉, 被老师提醒后情绪失控砸讲台对老师怒吼'杀杀杀'. 校方称已介入安抚, 称学生有心理压力. 网友炸锅, 引发讨论 '校园不能只会安抚不会裁决' / 师生关系 / 心理健康. 上下文 + 戏剧反转 + 真实素材 + 社会议题, 抖音算法高度推. 二创空间巨大.",
       "prompts": {
         "Sora": "A dramatic Chinese classroom scene from a security camera angle: a young male student slumps at his desk asleep, the professor approaches, gently taps the desk. The student suddenly stands up, slams the desk with both palms, face distorted with rage, yells 'kill kill kill' three times. Other students freeze in shock. Dim fluorescent lighting, handheld POV style, 9:16 vertical, 8 seconds.",
         "Kling": "中国大学教室监控视角戏剧场景: 年轻男生趴桌睡觉, 教授走近轻敲桌子, 学生突然起身用双手砸桌, 表情扭曲愤怒, 喊'杀杀杀'三声, 其他同学震惊定格. 昏暗荧光灯, 手持POV风, 9:16竖屏, 8秒",
@@ -15,12 +15,12 @@
       }
     },
     {
-      "title": "战战战杀杀杀卡点舞 (原版梗)",
+      "title": "战战战杀杀杀卡点舞",
       "source": "抖音 BGM 二创",
-      "date": "2023 起 至今爆 (2026-05 因二工大事件二次翻红)",
-      "heat": "原版 117万+ / 多条 46万",
+      "date": "2023 至今爆 (2026-05 因二工大事件二次翻红)",
+      "heat": "原版 117万+",
       "domain": "热门配音",
-      "analysis": "卡点舞 BGM '战战战 杀杀杀' 节奏强烈, 适合双人尬舞 / 情侣互动 / 角色挑战. 单段 BGM 19-22 秒. 跟二工大事件叠加后再次翻红, 出现'你怕是杀偏了吧'之类的梗变体. 反差喜剧/挑战双向走.",
+      "analysis": "卡点舞 BGM '战战战 杀杀杀' 节奏强烈, 适合双人尬舞 / 情侣互动 / 角色挑战. 单段 BGM 19-22 秒. 跟二工大事件叠加后再次翻红.",
       "prompts": {
         "Sora": "Two anime-style characters in school uniforms perform a synchronized punchy dance with sharp pose changes on each beat. Background flashes red on the 'kill kill kill' downbeat with motion-blur action lines. High contrast bright colors, energetic editing, 9:16 vertical, 15 seconds.",
         "Kling": "两个校服动漫角色, 同步节奏感舞蹈, 每个重拍换姿势. 'kill'重拍背景闪红+动作线特效. 高对比明亮色彩, 节奏剪辑, 9:16, 15秒",
@@ -28,12 +28,77 @@
       }
     },
     {
+      "title": "轻松绷住 / 大绷住",
+      "source": "抖音",
+      "date": "2026-05 持续翻红",
+      "heat": "单条 6万-3.4万 多账号都在做",
+      "domain": "热点梗",
+      "analysis": "'绷住' 源自'蚌埠住了' (网络谐音, 意思: 被笑/被惊到忍不住). '轻松绷住' = 在该破防的尴尬场景里故作镇定. '大绷住' = 全员进入这个状态. 应用场景: 严肃会议突然笑场 / 老师讲冷笑话 / 客户嫌弃但你要保持微笑. 反差喜剧, 万能模板.",
+      "prompts": {
+        "Sora": "Office meeting scene: a young professional struggles to keep a straight face while a colleague says something absurd. Camera zooms in slowly on twitching lips fighting back a smile. Text overlay '试图轻松绷住' appears. Bright office lighting, 9:16 vertical, 6 seconds.",
+        "Kling": "办公室会议场景: 年轻职员强忍不笑当同事说荒谬的话. 镜头缓慢推近抖动的嘴角. 屏幕字幕'试图轻松绷住'. 明亮办公室, 9:16, 6秒",
+        "Pika": "Office worker tries not to laugh during meeting, slow zoom on lips, subtitle 试图轻松绷住, bright office, 9:16, 6s"
+      }
+    },
+    {
+      "title": "班上的 6G 网速姐",
+      "source": "抖音 (网速姐 IP)",
+      "date": "2026-05 (单条 3.5万, 持续翻红)",
+      "heat": "3.5w / 多条二创",
+      "domain": "热点梗",
+      "analysis": "校园场景: 班里同学对老师提问的'网速' (反应速度) 各不同, 网速姐是 6G (秒回), 旁边人是 5G/3G/2G 慢半拍/没听见. 用'手机信号格' 类比反应速度, 视觉反差强. 由@静皇a (网速姐) 引爆, 已成校园场景万能套路.",
+      "prompts": {
+        "Sora": "A vibrant high school classroom split into four sub-frames showing the same teacher's question reaching four students at different speeds. Student 1 instant answer (6G icon), Student 2 mild delay (5G), Student 3 confused (3G), Student 4 fully zoned out (no signal). Anime-style overlay signal bars above each head, comedic timing, 9:16 vertical, 8 seconds.",
+        "Kling": "高中教室分四格: 同一老师提问到四个学生反应不同速度. 1立刻答(6G信号图标), 2轻微延迟(5G), 3困惑(3G), 4完全走神(无信号). 动漫风信号格特效悬头顶, 喜剧节奏, 9:16, 8秒",
+        "Pika": "Classroom split-four-frame, same question reaches students at different speeds, signal bar icons above heads 6G/5G/3G/no signal, anime overlay, comedic, 9:16, 8s"
+      }
+    },
+    {
+      "title": "从夯到拉",
+      "source": "抖音 (4-5 月持续)",
+      "date": "2026-04 起",
+      "heat": "9812+ 多账号在用",
+      "domain": "热点梗",
+      "analysis": "'夯' = 棒/猛/精彩 (老梗复活), '拉' = 拉胯/差. 整个表达式 '从夯到拉' / '夯爆了' / '拉完了' 形容某事/某人从精彩开始最后变差的过山车体验. 应用: 评价剧/游戏/产品/餐厅, 表达落差.",
+      "prompts": {
+        "Sora": "Split-screen progression of a roller coaster experience: left frame a vibrant exciting moment labeled '夯', right frame the same scene faded sad and dimmed labeled '拉', transitioning slowly from left to right with mood-matched lighting. 9:16 vertical, 8 seconds.",
+        "Kling": "过山车体验分屏: 左 '夯' 鲜艳激动场景, 右 '拉' 同场景褪色暗淡, 慢速左到右过渡+对应灯光. 9:16, 8秒",
+        "Pika": "Split-screen 夯 vibrant exciting vs 拉 faded sad, slow transition, mood lighting, 9:16, 8s"
+      }
+    },
+    {
+      "title": "中奖概率倍儿高",
+      "source": "抖音 (4-5 月)",
+      "date": "2026-04 起",
+      "heat": "2138+ 二创量大",
+      "domain": "热点梗",
+      "analysis": "抽象梗, 反话: 任何坏运气/翻车/被坑都说'中奖概率倍儿高' 自嘲. 京味口音, 把霉运说成中奖. 应用场景: 排队总轮到自己被检查 / 等车一定迟到 / 选了最难走的路.",
+      "prompts": {
+        "Sora": "A man in casual clothes stands at a bus stop in the rain looking up at the sky with deadpan resignation as buses pass without stopping. Subtitle overlay '中奖概率倍儿高' appears in playful font. Grey rainy palette, slight comedic timing, 9:16 vertical, 5 seconds.",
+        "Kling": "雨中公交站男生穿便服无奈仰望天空, 公交一辆辆开过不停. 屏幕字幕'中奖概率倍儿高' 俏皮字体. 灰色雨天调, 喜剧节奏, 9:16, 5秒",
+        "Pika": "Man at bus stop in rain, buses pass without stopping, deadpan, subtitle 中奖概率倍儿高, grey rainy, 9:16, 5s"
+      }
+    },
+    {
+      "title": "何必心存侥幸何必太羞耻",
+      "source": "抖音 (近期热搜联想词)",
+      "date": "2026-05",
+      "heat": "热梗搜索关联词高位",
+      "domain": "热点梗",
+      "analysis": "类似某流行歌词/台词的衍生梗 (具体出处待确认). 用法是当作'人生格言'式语调发出, 配抓拍的尴尬时刻, 反讽自我安慰. 应用场景: 偷吃东西被抓 / 装睡被识破 / 借口被戳穿.",
+      "prompts": {
+        "Sora": "A young woman caught eating from the fridge late at night, freezes for a second, then sighs philosophically and continues eating. Subtitle overlay '何必心存侥幸何必太羞耻'. Warm kitchen lighting, slight slow-motion, 9:16 vertical, 6 seconds.",
+        "Kling": "深夜年轻女生从冰箱偷食被发现, 定格1秒然后哲学地叹气继续吃. 屏幕字幕'何必心存侥幸何必太羞耻'. 暖色厨房灯, 轻微慢镜, 9:16, 6秒",
+        "Pika": "Woman caught eating from fridge at night, freezes then sighs philosophically continues, subtitle 何必心存侥幸何必太羞耻, warm kitchen, 9:16, 6s"
+      }
+    },
+    {
       "title": "杀杀第一视角课堂",
-      "source": "抖音二创",
+      "source": "抖音二创 (二工大梗衍生)",
       "date": "2026-05",
       "heat": "持续高位",
-      "domain": "热梗",
-      "analysis": "用二工大事件梗做'第一视角'视频: 镜头主观视角进入教室 → 老师走来 → 学生主观视角砸桌喊杀. 转视角 + 反转, 一秒切气氛, 模仿成本低. 可结合各种场景 (办公室/食堂/相亲)做职场或日常二创.",
+      "domain": "热点梗",
+      "analysis": "用二工大事件梗做'第一视角'视频: 镜头主观视角进入教室 → 老师走来 → 学生主观视角砸桌喊杀. 转视角 + 反转, 模仿成本低. 可结合各种场景 (办公室/食堂/相亲) 做职场或日常二创.",
       "prompts": {
         "Sora": "First-person POV shot inside a Chinese classroom: hands resting on desk, fingers twitching with anger, the teacher's silhouette approaches from blurred background. Sudden POV shake as hands slam down, vision red-tints, shouting 'kill kill kill' in synced audio. 9:16 vertical, 6 seconds.",
         "Kling": "中式教室第一视角: 手放桌上手指颤抖, 老师模糊轮廓从背景走近. 突然视角晃动手砸桌, 视野泛红, 同步喊'杀杀杀'. 9:16, 6秒",
@@ -41,94 +106,16 @@
       }
     },
     {
-      "title": "杀神哥",
+      "title": "杀神哥 (粤语版)",
       "source": "抖音",
       "date": "2026-05",
-      "heat": "联动二工大梗持续翻红",
-      "domain": "热梗",
-      "analysis": "把'杀杀杀'魔性内容用粤语/方言/外语翻唱重做. 跨语言反差产生笑点, 适合各种方言达人/语言学博主二创. '杀神哥粤语版' 单条 6665 赞趋势上升.",
+      "heat": "联动二工大梗翻红",
+      "domain": "热门配音",
+      "analysis": "把'杀杀杀'魔性内容用粤语/方言/外语翻唱重做. 跨语言反差产生笑点, 适合各种方言达人/语言学博主二创.",
       "prompts": {
         "Sora": "A cartoonish bilingual narrator in casual clothes overlays Cantonese dubbed audio over the classic Chinese 'kill kill kill' clip. Split-screen comparison: original on left, Cantonese version on right with subtitles. Vibrant studio background, 9:16, 12 seconds.",
         "Kling": "卡通双语博主, 用粤语翻唱'杀杀杀'原版片段, 左右分屏: 左原版/右粤语字幕版. 鲜艳工作室背景, 9:16, 12秒",
         "Pika": "Bilingual narrator dubs kill clip in Cantonese, split-screen compare, vibrant studio, subtitles, 9:16, 12s"
-      }
-    },
-    {
-      "title": "中塞友谊勋章",
-      "source": "抖音热点榜",
-      "date": "2026-05-26 当天",
-      "heat": "热点榜 TOP",
-      "domain": "热点事件",
-      "analysis": "习近平同塞尔维亚总统武契奇会谈, 一枚友谊勋章见证中塞深情. 官方外交事件, 适合做严肃国际关系科普 / 国宝级礼物背后的工艺解说类视频. 主流央视风格.",
-      "prompts": {
-        "Sora": "A close-up cinematic shot of an ornate gold friendship medal being placed on velvet, gentle warm key light, flags of China and Serbia softly blurred in the background. Solemn orchestral mood. Documentary style, 16:9 horizontal, 10 seconds.",
-        "Kling": "精致金质友谊勋章特写置于天鹅绒上, 暖色侧光, 背景中塞两国国旗虚化. 庄重交响乐氛围. 纪录片风格, 16:9, 10秒",
-        "Pika": "Cinematic friendship medal close-up on velvet, China Serbia flags blurred bg, orchestral, doc style, 16:9, 10s"
-      }
-    },
-    {
-      "title": "尼克斯横扫骑士晋级总决赛",
-      "source": "抖音热点榜",
-      "date": "2026-05-26 当天",
-      "heat": "1204.6万",
-      "domain": "热点事件",
-      "analysis": "NBA 季后赛尼克斯横扫骑士进入总决赛, 球迷热议. 适合做篮球技战术分析 / 球员高光时刻剪辑 / 横扫纪录历史回顾 / 球迷反应混剪.",
-      "prompts": {
-        "Sora": "Slow-motion highlight: a basketball player in Knicks orange jersey rises for a powerful dunk against blurred Cavaliers defense, crowd erupting in background. Cinematic stadium lighting, particle dust on court, 16:9 horizontal, 8 seconds.",
-        "Kling": "慢动作高光: 尼克斯橙色球衣球员高高跃起灌篮, 骑士防守虚化, 观众席沸腾. 球馆电影感灯光, 球场粉尘特效, 16:9, 8秒",
-        "Pika": "Slow-mo NBA Knicks dunk vs Cavaliers, crowd erupts, cinematic arena lighting, 16:9, 8s"
-      }
-    },
-    {
-      "title": "柯洁春兰杯胜福冈航太郎",
-      "source": "抖音热点榜",
-      "date": "2026-05-26 当天",
-      "heat": "1110.1万",
-      "domain": "热点事件",
-      "analysis": "围棋春兰杯柯洁战胜日本棋手福冈航太郎. 中日围棋老话题, 适合做围棋复盘解说 / 关键招法慢镜头 / 棋手生涯回顾.",
-      "prompts": {
-        "Sora": "Top-down shot of a Go board with black and white stones, slow zoom on a critical move, hand placing a black stone gently. Wood grain board texture, soft museum lighting, contemplative mood, 16:9 horizontal, 6 seconds.",
-        "Kling": "围棋棋盘俯视, 黑白棋子, 关键落子慢推镜, 手轻放黑子. 木纹质感, 博物馆柔光, 沉思氛围, 16:9, 6秒",
-        "Pika": "Go board top-down, slow zoom critical move, hand places black stone, wood texture, museum lighting, 16:9, 6s"
-      }
-    },
-    {
-      "title": "无人机中国心",
-      "source": "抖音热点榜",
-      "date": "2026-05-26 当天",
-      "heat": "1108.6万",
-      "domain": "热点事件",
-      "analysis": "国产无人机搭载国产发动机, '中国心' 突破. 适合做科技自主科普 / 工程师采访 / 飞行测试现场.",
-      "prompts": {
-        "Sora": "A sleek Chinese-made drone takes off vertically against a sunrise sky over an airfield. Camera follows it ascending then cuts to close-up of the engine block with red Chinese characters '中国心'. Patriotic uplifting mood, cinematic 16:9, 12 seconds.",
-        "Kling": "国产无人机日出机场垂直起飞, 镜头跟拍上升然后切发动机特写带红色'中国心'字样. 振奋爱国氛围, 电影感 16:9, 12秒",
-        "Pika": "Chinese drone vertical takeoff at sunrise airfield, engine close-up with red text China Heart, patriotic, 16:9, 12s"
-      }
-    },
-    {
-      "title": "西班牙世界杯大名单",
-      "source": "抖音热点榜",
-      "date": "2026-05-26 当天",
-      "heat": "1107.4万",
-      "domain": "热点事件",
-      "analysis": "西班牙国家队公布 2026 世界杯参赛大名单, 球迷热议入选/落选球员. 适合做名单解读 / 阵型预测 / 球员对位分析 / 球迷反应街采.",
-      "prompts": {
-        "Sora": "An animated tactical board shows a Spanish football team formation with player portraits sliding into position. Red yellow color scheme, La Furia Roja energy, broadcaster studio background, 16:9 horizontal, 10 seconds.",
-        "Kling": "西班牙队战术板动画, 球员头像滑入站位. 红黄配色斗牛士能量, 演播室背景, 16:9, 10秒",
-        "Pika": "Spanish football tactical board animation, player portraits slide in, red-yellow color, studio bg, 16:9, 10s"
-      }
-    },
-    {
-      "title": "我要喂你吃饭饭",
-      "source": "抖音",
-      "date": "2026-05",
-      "heat": "1200w+",
-      "domain": "热梗",
-      "analysis": "反差萌+亲昵语气制造网络爱称. 适合情侣/养宠/二次元角色互动, 关键是夸张食物喂养画面+娇嗲音效.",
-      "prompts": {
-        "Sora": "A chibi character with sparkly eyes lovingly feeds another character a giant bowl of rice, exaggerated kawaii expressions, soft pastel pink and yellow lighting, 9:16 vertical, 5 seconds.",
-        "Kling": "粉色头发可爱角色双手捧大碗饭喂镜头, 表情夸张眼睛闪光, 暖色调灯光, 9:16, 5秒",
-        "Pika": "Kawaii anime character feeding food, exaggerated cute expression, pink-yellow soft lighting, 9:16, 5s"
       }
     }
   ]
