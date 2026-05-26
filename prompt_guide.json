@@ -125,6 +125,18 @@
       "tag": "工作流"
     },
     {
+      "title": "Runway 官方铁律 (Gen-3 Alpha 官方 prompting guide)",
+      "tips": [
+        "**直接, 不抽象**: ❌'a man hacking the mainframe' ✅'a man typing vigorously on keyboard'",
+        "**描述, 不对话**: ❌'can you please make a video...' ✅'two friends eat birthday cake'",
+        "**仅用正向, 不支持 negative**: ❌'no clouds in sky' ✅'a clear blue sky'. 用 negative 会反效果",
+        "**通用结构**: `[camera movement]: [establishing scene]. [additional details].` 例: 'Low angle static shot: The camera is angled up at a woman in tropical rainforest...'",
+        "**图生视频时**: 不要 redescribe 输入图. 直接说想要的 motion / camera",
+        "**反常识警告**: 这套跟抖音教学'加 negative + 加各种细节词'冲突! 不同模型规则不同, **Runway/Sora 不要加 negative, 可灵/即梦中文模型可以加**"
+      ],
+      "tag": "官方"
+    },
+    {
       "title": "提示词必备摄影/编剧知识 (AI袋鼠帝, 2024 老炮观察)",
       "tips": [
         "**摄影知识**: 焦段 (24/35/85mm) / 光圈 (f/1.4 浅景深) / 快门 (motion blur)",
