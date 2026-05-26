@@ -299,6 +299,50 @@ main {
   vertical-align: middle;
 }
 
+.guide-card {
+  border-left: 4px solid #d29922;
+}
+
+.guide-tag {
+  display: inline-block;
+  background: #d2992222;
+  color: #d29922;
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  border-radius: 8px;
+  font-weight: 400;
+  vertical-align: middle;
+}
+
+.guide-tips {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0 0 0;
+}
+
+.guide-tips li {
+  padding: 8px 0 8px 24px;
+  position: relative;
+  color: #adbac7;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  border-bottom: 1px dashed #21262d;
+}
+
+.guide-tips li:before {
+  content: "💡";
+  position: absolute;
+  left: 0;
+}
+
+.guide-tips li:last-child {
+  border-bottom: none;
+}
+
+.guide-tips strong {
+  color: #58a6ff;
+}
+
 .prompt-tabs {
   display: flex;
   gap: 4px;

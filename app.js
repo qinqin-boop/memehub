@@ -3,20 +3,23 @@
 let allMemes = [];
 let allCharacters = null;
 let allBloggers = null;
+let allGuides = null;
 let currentDomain = "全部";
 let currentView = "memes";
 let currentSearch = "";
 
 async function load() {
   try {
-    const [memesRes, charsRes, bloggersRes] = await Promise.all([
+    const [memesRes, charsRes, bloggersRes, guideRes] = await Promise.all([
       fetch("data.json").then((r) => r.json()),
       fetch("characters.json").then((r) => r.json()).catch(() => null),
       fetch("bloggers.json").then((r) => r.json()).catch(() => null),
+      fetch("prompt_guide.json").then((r) => r.json()).catch(() => null),
     ]);
     allMemes = memesRes.memes || [];
     allCharacters = charsRes;
     allBloggers = bloggersRes;
+    allGuides = guideRes;
     document.getElementById("updated").textContent = memesRes.updated_at || "--";
     render();
   } catch (e) {
@@ -30,9 +33,38 @@ function render() {
     renderCharacters();
   } else if (currentView === "bloggers") {
     renderBloggers();
+  } else if (currentView === "guide") {
+    renderGuide();
   } else {
     renderMemes();
   }
+}
+
+function renderGuide() {
+  if (!allGuides) {
+    document.getElementById("cards").innerHTML = '<p style="color:#8b949e">指南数据未加载</p>';
+    return;
+  }
+  const list = (allGuides.guides || []).filter((g) => {
+    if (!currentSearch) return true;
+    return JSON.stringify(g).toLowerCase().includes(currentSearch.toLowerCase());
+  });
+  document.getElementById("count").textContent = `共 ${list.length} 条提示词写作指南 · 来自抖音教学博主`;
+  const html = list
+    .map((g) => `
+      <div class="card guide-card">
+        <h3>${escapeHtml(g.title)} <span class="guide-tag">#${escapeHtml(g.tag || "")}</span></h3>
+        <ul class="guide-tips">
+          ${(g.tips || []).map((t) => `<li>${formatMd(t)}</li>`).join("")}
+        </ul>
+      </div>
+    `)
+    .join("");
+  document.getElementById("cards").innerHTML = html;
+}
+
+function formatMd(s) {
+  return escapeHtml(s).replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
 }
 
 function renderBloggers() {
