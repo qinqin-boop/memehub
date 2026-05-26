@@ -1,0 +1,70 @@
+{
+  "updated_at": "2026-05-26 14:40",
+  "memes": [
+    {
+      "title": "我要喂你吃饭饭",
+      "source": "抖音",
+      "date": "2026-05",
+      "heat": "1200w+",
+      "domain": "热梗",
+      "analysis": "用反差萌+亲昵语气制造网络爱称效果. 适合情侣/养宠/二次元角色互动场景, 关键是夸张的食物喂养画面+娇嗲音效, 容易引发模仿.",
+      "prompts": {
+        "Sora": "A cute anime-style scene: a chibi character with sparkly eyes lovingly feeds another character a giant bowl of rice with chopsticks. Soft pastel pink and warm yellow lighting, exaggerated facial expressions, 'ahhh' open mouth gesture. Camera slowly zooms in on the food being lifted. 9:16 vertical, kawaii aesthetic, 5 seconds.",
+        "Kling": "二次元卡通风格, 一个粉色头发的可爱角色双手捧着一大碗饭, 用筷子夹起一勺递向镜头, 表情夸张, 眼睛闪闪发光. 暖色调灯光, 9:16 竖屏, 5 秒, 萌系审美.",
+        "Pika": "Kawaii anime character feeding food to camera, exaggerated cute expression, pink-yellow soft lighting, vertical 9:16, 5s, lovely vibe"
+      }
+    },
+    {
+      "title": "city 不 city 啊",
+      "source": "抖音 / 小红书",
+      "date": "2026-04 至今",
+      "heat": "8000w+",
+      "domain": "热梗",
+      "analysis": "外国博主问中国景点 'city 不 city' 的中英混搭句式, 网友用此评判任何场景的'都市感'. 反差感+异国视角+土洋结合, 用在城乡对比/穿搭点评/职场段子都行.",
+      "prompts": {
+        "Sora": "A blonde foreign vlogger holding a selfie stick in a modern Chinese cityscape with skyscrapers and neon signs at night. She turns to camera with exaggerated surprised expression and asks 'city or not city?' in mixed English-Chinese. Vibrant urban background, vlog-style handheld camera, 9:16, 6 seconds.",
+        "Kling": "金发外国博主自拍杆视角, 站在中国现代化夜景城市中, 霓虹+高楼, 转头对镜头夸张惊讶, 中英混搭说话, 城市vlog 风格手持, 9:16 竖屏, 6 秒",
+        "Pika": "Foreign vlogger in Chinese city night, selfie stick, surprised expression, urban neon background, vertical 9:16, vlog handheld, 6s"
+      }
+    },
+    {
+      "title": "包的!",
+      "source": "抖音",
+      "date": "2026-03 起",
+      "heat": "持续高位",
+      "domain": "热梗",
+      "analysis": "网络上对各种夸大承诺的解构, '包X的' 句式 (包过/包瘦/包赚) 演变为反讽万能回应. 适合答题秒杀/做菜翻车/迷之自信场景, 配大笑表情包.",
+      "prompts": {
+        "Sora": "A confident young man in casual clothes points at camera with exaggerated thumbs-up and says 'guaranteed!' in Chinese ('bao de'). Bright comedic lighting, simple yellow background, fast zoom-in for emphasis, meme-style, 9:16, 3 seconds.",
+        "Kling": "一个自信的年轻男生休闲装, 对镜头大拇指夸张点赞, 用力说'包的!', 明亮喜剧灯光, 简洁黄色背景, 快速放大镜头, 表情包风格, 9:16, 3 秒",
+        "Pika": "Confident guy thumbs up to camera saying 'bao de' (guaranteed), comedic yellow bg, fast zoom meme style, vertical 9:16, 3s"
+      }
+    },
+    {
+      "title": "subway surfers 风格分屏",
+      "source": "抖音 / B站",
+      "date": "2026-持续",
+      "heat": "5000w+",
+      "domain": "热梗",
+      "analysis": "上半屏放有信息密度的内容(讲解/字幕), 下半屏放无脑爽视频(地铁跑酷/切肥皂/解压). 利用大脑'对无聊内容焦虑'倾向, 留住注意力. 适合任何枯燥科普/学习内容.",
+      "prompts": {
+        "Sora": "Vertical split-screen video: top half shows a person explaining a concept with subtitles overlay. Bottom half shows endless Subway Surfers gameplay with vibrant colors and constant movement. Match the duration, 9:16 vertical, 30 seconds.",
+        "Kling": "9:16 竖屏分屏视频: 上半部分一个人讲解某概念带字幕, 下半部分是 Subway Surfers 地铁跑酷无限游戏画面, 鲜艳色彩持续运动. 时长对齐, 30 秒",
+        "Pika": "Split-screen vertical: top explainer with subtitles, bottom Subway Surfers gameplay, vibrant, 9:16, 30s"
+      }
+    },
+    {
+      "title": "kpop demon hunters",
+      "source": "抖音 / B站 / 海外",
+      "date": "2026-05",
+      "heat": "全球爆款",
+      "domain": "热梗",
+      "analysis": "Netflix 动画电影 KPop Demon Hunters 主角 HUNTR/X 三人组合的舞台 pose+服装. 二次元偶像+猎魔奇幻设定, 适合 cosplay/手势模仿/原创角色二创.",
+      "prompts": {
+        "Sora": "Three stylized anime K-pop idol-warriors in matching dark fantasy outfits with glowing weapons strike a synchronized power pose on a neon-lit stage. Dramatic lighting with purple and pink accents, particle effects, holographic background. 9:16 vertical, cinematic anime style, 6 seconds.",
+        "Kling": "三个动漫风格 K-pop 偶像战士组合, 暗黑奇幻服装, 发光武器, 霓虹舞台同步力量姿势, 戏剧化紫粉灯光+粒子效果+全息背景, 9:16 电影动画风, 6 秒",
+        "Pika": "Three anime KPop warrior idols, power pose, neon stage, purple-pink dramatic lighting, particles, 9:16 cinematic, 6s"
+      }
+    }
+  ]
+}

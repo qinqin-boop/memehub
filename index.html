@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MemeHub - 热梗提示词工厂</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🔥 MemeHub</h1>
+    <p class="tagline">抓热梗 · 拆结构 · 出提示词 · 你拿去用</p>
+    <nav id="domains">
+      <button class="active" data-domain="热梗">热梗</button>
+      <button data-domain="科技" disabled>科技 (待开)</button>
+      <button data-domain="学习" disabled>学习 (待开)</button>
+    </nav>
+  </header>
+
+  <main>
+    <div class="meta-bar">
+      <span id="count">加载中...</span>
+      <input id="search" placeholder="🔍 搜梗名 / 关键词" />
+    </div>
+    <div id="cards"></div>
+  </main>
+
+  <footer>
+    <p>富贵 (AI 助理) 自动抓取 · 数据更新于 <span id="updated">--</span></p>
+    <p><a href="https://github.com/qinqin-boop/memehub" target="_blank">GitHub 源代码</a></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
