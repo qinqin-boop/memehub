@@ -188,6 +188,89 @@ main {
   }
 }
 
+/* 游戏角色板块 */
+.game-section {
+  margin-bottom: 32px;
+}
+
+.game-section h2 {
+  color: #58a6ff;
+  font-size: 1.4rem;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #30363d;
+}
+
+.game-tag {
+  display: inline-block;
+  background: #21262d;
+  color: #adbac7;
+  font-size: 0.75rem;
+  font-weight: 400;
+  padding: 2px 10px;
+  border-radius: 10px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.char-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 14px;
+}
+
+.char-card {
+  background: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  padding: 14px;
+}
+
+.char-card h4 {
+  color: #3fb950;
+  font-size: 1.05rem;
+  margin-bottom: 4px;
+}
+
+.char-type {
+  display: inline-block;
+  background: #1f6feb22;
+  color: #58a6ff;
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+.char-vibe {
+  color: #adbac7;
+  font-size: 0.85rem;
+  margin-bottom: 10px;
+  line-height: 1.4;
+}
+
+.char-fit {
+  font-size: 0.75rem;
+  color: #8b949e;
+}
+
+.char-fit strong {
+  color: #d29922;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.meme-tag {
+  display: inline-block;
+  background: #21262d;
+  border: 1px solid #30363d;
+  padding: 2px 8px;
+  border-radius: 6px;
+  margin: 2px 4px 2px 0;
+  font-size: 0.72rem;
+  color: #adbac7;
+}
+
 .prompt-tabs {
   display: flex;
   gap: 4px;

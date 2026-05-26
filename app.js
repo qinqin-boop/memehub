@@ -1,15 +1,20 @@
-// MemeHub front-end - 静态 SPA, 从 data.json 拉热梗数据渲染
+// MemeHub front-end - 静态 SPA, 切换 memes / characters 视图
 
 let allMemes = [];
+let allCharacters = null;
 let currentDomain = "全部";
+let currentView = "memes";
 let currentSearch = "";
 
 async function load() {
   try {
-    const res = await fetch("data.json");
-    const data = await res.json();
-    allMemes = data.memes || [];
-    document.getElementById("updated").textContent = data.updated_at || "--";
+    const [memesRes, charsRes] = await Promise.all([
+      fetch("data.json").then((r) => r.json()),
+      fetch("characters.json").then((r) => r.json()).catch(() => null),
+    ]);
+    allMemes = memesRes.memes || [];
+    allCharacters = charsRes;
+    document.getElementById("updated").textContent = memesRes.updated_at || "--";
     render();
   } catch (e) {
     document.getElementById("cards").innerHTML =
@@ -18,6 +23,14 @@ async function load() {
 }
 
 function render() {
+  if (currentView === "characters") {
+    renderCharacters();
+  } else {
+    renderMemes();
+  }
+}
+
+function renderMemes() {
   const filtered = allMemes.filter((m) => {
     if (currentDomain !== "全部" && m.domain !== currentDomain) return false;
     if (currentSearch && !JSON.stringify(m).toLowerCase().includes(currentSearch.toLowerCase()))
@@ -25,7 +38,7 @@ function render() {
     return true;
   });
 
-  document.getElementById("count").textContent = `共 ${filtered.length} 条热梗 · 领域: ${currentDomain}`;
+  document.getElementById("count").textContent = `共 ${filtered.length} 条热梗 · ${currentDomain}`;
 
   const cardsHtml = filtered
     .map((m, idx) => {
@@ -61,7 +74,6 @@ function render() {
 
   document.getElementById("cards").innerHTML = cardsHtml || '<p style="color:#8b949e">暂无数据</p>';
 
-  // wire prompt tab switch
   document.querySelectorAll(".card").forEach((card) => {
     const idx = parseInt(card.dataset.idx);
     const meme = filtered[idx];
@@ -84,21 +96,56 @@ function render() {
   });
 }
 
-function wireCopy(btn, text) {
-  btn.addEventListener("click", async (e) => {
-    e.stopPropagation();
-    try {
-      await navigator.clipboard.writeText(text);
-      btn.textContent = "✓ 已复制";
-      btn.classList.add("copied");
-      setTimeout(() => {
-        btn.textContent = "复制";
-        btn.classList.remove("copied");
-      }, 1500);
-    } catch (err) {
-      btn.textContent = "复制失败";
-    }
-  });
+function renderCharacters() {
+  if (!allCharacters) {
+    document.getElementById("cards").innerHTML = '<p style="color:#8b949e">角色数据未加载</p>';
+    return;
+  }
+  const games = allCharacters.games || [];
+  const filteredGames = games
+    .map((g) => ({
+      ...g,
+      characters: g.characters.filter((c) => {
+        if (!currentSearch) return true;
+        const blob = (c.name + " " + (c.vibe || "") + " " + g.name).toLowerCase();
+        return blob.includes(currentSearch.toLowerCase());
+      }),
+    }))
+    .filter((g) => g.characters.length > 0);
+
+  const total = filteredGames.reduce((s, g) => s + g.characters.length, 0);
+  document.getElementById("count").textContent = `共 ${total} 个角色 · ${filteredGames.length} 款游戏/IP`;
+
+  const html = filteredGames
+    .map(
+      (g) => `
+    <div class="game-section">
+      <h2>${escapeHtml(g.name)} <span class="game-tag">${escapeHtml(g.tag || "")}</span></h2>
+      <div class="char-grid">
+        ${g.characters
+          .map(
+            (c) => `
+          <div class="char-card">
+            <h4>${escapeHtml(c.name)}</h4>
+            <div class="char-type">${escapeHtml(c.type || "")}</div>
+            <div class="char-vibe">${escapeHtml(c.vibe || "")}</div>
+            <div class="char-fit">
+              <strong>适合梗:</strong>
+              ${(c.fit_memes || [])
+                .map((m) => `<span class="meme-tag">${escapeHtml(m)}</span>`)
+                .join("")}
+            </div>
+          </div>
+        `
+          )
+          .join("")}
+      </div>
+    </div>
+  `
+    )
+    .join("");
+
+  document.getElementById("cards").innerHTML = html || '<p style="color:#8b949e">无匹配角色</p>';
 }
 
 function renderChars(c) {
@@ -118,6 +165,23 @@ function renderChars(c) {
   `;
 }
 
+function wireCopy(btn, text) {
+  btn.addEventListener("click", async (e) => {
+    e.stopPropagation();
+    try {
+      await navigator.clipboard.writeText(text);
+      btn.textContent = "✓ 已复制";
+      btn.classList.add("copied");
+      setTimeout(() => {
+        btn.textContent = "复制";
+        btn.classList.remove("copied");
+      }, 1500);
+    } catch (err) {
+      btn.textContent = "复制失败";
+    }
+  });
+}
+
 function escapeHtml(s) {
   if (s == null) return "";
   return String(s)
@@ -127,18 +191,17 @@ function escapeHtml(s) {
     .replace(/"/g, "&quot;");
 }
 
-// domain switch
+// nav switch
 document.querySelectorAll("nav#domains button").forEach((btn) => {
-  if (btn.disabled) return;
   btn.addEventListener("click", () => {
     document.querySelectorAll("nav#domains button").forEach((b) => b.classList.remove("active"));
     btn.classList.add("active");
-    currentDomain = btn.dataset.domain;
+    currentView = btn.dataset.view || "memes";
+    currentDomain = btn.dataset.domain || "全部";
     render();
   });
 });
 
-// search
 document.getElementById("search").addEventListener("input", (e) => {
   currentSearch = e.target.value;
   render();
