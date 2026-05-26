@@ -148,6 +148,46 @@ main {
   color: #d29922;
 }
 
+.chars {
+  background: #0d1117;
+  border-left: 3px solid #3fb950;
+  padding: 12px;
+  margin: 12px 0;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.chars-group strong {
+  color: #3fb950;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.chars ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.chars li {
+  padding: 3px 0;
+  color: #adbac7;
+  border-bottom: 1px dashed #21262d;
+}
+
+.chars li:last-child {
+  border-bottom: none;
+}
+
+@media (max-width: 600px) {
+  .chars {
+    grid-template-columns: 1fr;
+  }
+}
+
 .prompt-tabs {
   display: flex;
   gap: 4px;

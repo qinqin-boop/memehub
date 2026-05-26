@@ -41,6 +41,7 @@ function render() {
         <div class="analysis">
           <strong>梗点分析:</strong> ${escapeHtml(m.analysis || "")}
         </div>
+        ${m.characters ? renderChars(m.characters) : ""}
         <div class="prompt-tabs">
           ${promptKeys
             .map(
@@ -98,6 +99,23 @@ function wireCopy(btn, text) {
       btn.textContent = "复制失败";
     }
   });
+}
+
+function renderChars(c) {
+  const game = (c.game || []).map((g) => `<li>${escapeHtml(g)}</li>`).join("");
+  const blogger = (c.blogger || []).map((g) => `<li>${escapeHtml(g)}</li>`).join("");
+  return `
+    <div class="chars">
+      <div class="chars-group">
+        <strong>🎮 可二创角色 (游戏):</strong>
+        <ul>${game}</ul>
+      </div>
+      <div class="chars-group">
+        <strong>👤 可参考博主:</strong>
+        <ul>${blogger}</ul>
+      </div>
+    </div>
+  `;
 }
 
 function escapeHtml(s) {
