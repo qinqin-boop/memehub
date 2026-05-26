@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26 16:13",
+  "updated_at": "2026-05-26 17:40 (schema-generated)",
   "memes": [
     {
       "title": "EXO 第13人 曾经的王 King",
@@ -9,9 +9,9 @@
       "domain": "热点梗",
       "analysis": "网友集体造梗虚构的 EXO 第 13 人, 中文'曾经的王' 国际'King'. 完整虚构设定: 云南农村出身/出道即巅峰/影响力堪比 MJ/公开恋情遭全网封杀/记忆篡改全网装信他存在过. 抽象+团魂+集体玩笑+假记忆, 二创空间大. 适合做'网络人物志 / 篡改记忆 / 都市传说 / 抽象 RP' 类内容.",
       "prompts": {
-        "Sora": "A faux-documentary intro in style of a tabloid bio episode: dim lighting, vintage photograph montage of a fictional male K-pop star labeled 'King - the 13th member of EXO'. Slow zoom on a faded photo, dramatic voiceover narrates 'remember when 9 became 13'. Aged film grain texture, sepia tones, mock-archive footage style, 16:9 horizontal, 12 seconds.",
-        "Kling": "伪纪录片人物志开场: 昏暗灯光, 假冒K-pop明星老照片蒙太奇, 字幕'King - EXO第13人'. 慢推褪色老照片, 戏剧旁白'9 人变 13 人记得吗'. 复古胶片质感, 棕褐色调, 仿存档素材, 16:9, 12秒",
-        "Pika": "Fake bio doc intro of fictional King 13th EXO member, vintage photo montage, sepia tones, dramatic narration, 16:9, 12s"
+        "Sora": "faux-documentary intro, dim lighting, mock-archive footage style: a fictional male K-pop star labeled King the 13th member of EXO static portrait pose with vintage photo montage transitioning behind. slow zoom on faded photo, vintage warm tungsten. documentary tabloid bio style, aged film grain, sepia tones, 16:9 vertical, 12 seconds.",
+        "Kling": "伪纪录片人物志开场, 昏暗灯光, 仿存档素材风: 虚构 K-pop 男星 King EXO 第 13 人静态肖像姿势, 身后老照片蒙太奇切换. 慢推褪色老照片, 复古暖钨丝灯. 纪录片人物志风, 老式胶片质感, 棕褐色调, 16:9竖屏, 12秒.",
+        "Pika": "faux-documentary intro, dim lighting, mock-archive footage style, a fictional male K-pop star labeled King the 13th member of EXO, static portrait pose with vintage photo montage transitioning behind, slow zoom on faded photo, vintage warm tungsten, documentary tabloid bio style, aged film grain, sepia tones, 16:9, 12s"
       },
       "characters": {
         "game": [
@@ -34,9 +34,9 @@
       "domain": "热点梗",
       "analysis": "上海第二工业大学一学生上课迟到睡觉, 被老师提醒后情绪失控砸讲台对老师怒吼'杀杀杀'. 校方称已介入安抚, 称学生有心理压力. 网友炸锅, 引发讨论 '校园不能只会安抚不会裁决' / 师生关系 / 心理健康. 上下文 + 戏剧反转 + 真实素材 + 社会议题, 抖音算法高度推. 二创空间巨大.",
       "prompts": {
-        "Sora": "A dramatic Chinese classroom scene from a security camera angle: a young male student slumps at his desk asleep, the professor approaches, gently taps the desk. The student suddenly stands up, slams the desk with both palms, face distorted with rage, yells 'kill kill kill' three times. Other students freeze in shock. Dim fluorescent lighting, handheld POV style, 9:16 vertical, 8 seconds.",
-        "Kling": "中国大学教室监控视角戏剧场景: 年轻男生趴桌睡觉, 教授走近轻敲桌子, 学生突然起身用双手砸桌, 表情扭曲愤怒, 喊'杀杀杀'三声, 其他同学震惊定格. 昏暗荧光灯, 手持POV风, 9:16竖屏, 8秒",
-        "Pika": "Chinese university classroom security cam, sleeping student awakens enraged, slams desk yelling 'kill kill kill' three times, students frozen, dim fluorescent, 9:16, 8s"
+        "Sora": "Chinese university classroom, security camera angle, other students frozen in shock: a young male university student slams desk with both palms yelling 'kill kill kill' three times after being woken up by teacher. handheld POV, slight shake, low angle, dim fluorescent. dramatic security cam style, realistic, 9:16 vertical, 8 seconds.",
+        "Kling": "中国大学教室监控视角, 其他同学震惊定格: 年轻男大学生被老师叫醒后用双手砸桌喊'杀杀杀'三声. 手持 POV, 轻微抖动, 低角度, 昏暗荧光灯. 戏剧化监控质感, 写实, 9:16竖屏, 8秒.",
+        "Pika": "Chinese university classroom, security camera angle, other students frozen in shock, a young male university student, slams desk with both palms yelling 'kill kill kill' three times after being woken up by teacher, handheld POV, slight shake, low angle, dim fluorescent, dramatic security cam style, realistic, 9:16, 8s"
       },
       "characters": {
         "game": [
@@ -59,9 +59,9 @@
       "domain": "热门配音",
       "analysis": "卡点舞 BGM '战战战 杀杀杀' 节奏强烈, 适合双人尬舞 / 情侣互动 / 角色挑战. 单段 BGM 19-22 秒. 跟二工大事件叠加后再次翻红.",
       "prompts": {
-        "Sora": "Two anime-style characters in school uniforms perform a synchronized punchy dance with sharp pose changes on each beat. Background flashes red on the 'kill kill kill' downbeat with motion-blur action lines. High contrast bright colors, energetic editing, 9:16 vertical, 15 seconds.",
-        "Kling": "两个校服动漫角色, 同步节奏感舞蹈, 每个重拍换姿势. 'kill'重拍背景闪红+动作线特效. 高对比明亮色彩, 节奏剪辑, 9:16, 15秒",
-        "Pika": "Two anime school students dance synchronized, red flash on beat, kill kill kill, action lines, vibrant, 9:16, 15s"
+        "Sora": "neon-lit stage, background flashes red on 'kill kill kill' downbeat: two anime-style characters in school uniforms perform synchronized punchy dance with sharp pose changes on each beat. energetic editing with quick cuts, high contrast neon, red strobe on beats. vibrant anime music video, 9:16 vertical, 15 seconds.",
+        "Kling": "霓虹舞台, 'kill' 重拍背景闪红: 两个校服动漫角色同步节奏感舞蹈, 每个重拍换姿势. 节奏剪辑快速切换, 高对比霓虹, 重拍红色频闪. 鲜艳动漫 MV 风, 9:16竖屏, 15秒.",
+        "Pika": "neon-lit stage, background flashes red on 'kill kill kill' downbeat, two anime-style characters in school uniforms, perform synchronized punchy dance with sharp pose changes on each beat, energetic editing with quick cuts, high contrast neon, red strobe on beats, vibrant anime music video, 9:16, 15s"
       },
       "characters": {
         "game": [
@@ -84,9 +84,9 @@
       "domain": "热点梗",
       "analysis": "'绷住' 源自'蚌埠住了' (网络谐音, 意思: 被笑/被惊到忍不住). '轻松绷住' = 在该破防的尴尬场景里故作镇定. '大绷住' = 全员进入这个状态. 应用场景: 严肃会议突然笑场 / 老师讲冷笑话 / 客户嫌弃但你要保持微笑. 反差喜剧, 万能模板.",
       "prompts": {
-        "Sora": "Office meeting scene: a young professional struggles to keep a straight face while a colleague says something absurd. Camera zooms in slowly on twitching lips fighting back a smile. Text overlay '试图轻松绷住' appears. Bright office lighting, 9:16 vertical, 6 seconds.",
-        "Kling": "办公室会议场景: 年轻职员强忍不笑当同事说荒谬的话. 镜头缓慢推近抖动的嘴角. 屏幕字幕'试图轻松绷住'. 明亮办公室, 9:16, 6秒",
-        "Pika": "Office worker tries not to laugh during meeting, slow zoom on lips, subtitle 试图轻松绷住, bright office, 9:16, 6s"
+        "Sora": "bright office meeting room: a young office worker struggles to keep a straight face while a colleague says something absurd. slow zoom-in on twitching lips fighting back a smile, bright office fluorescent. comedic, with text overlay '试图轻松绷住', 9:16 vertical, 6 seconds.",
+        "Kling": "明亮办公室会议室: 年轻职员强忍不笑当同事说荒谬的话. 缓慢推近抖动的嘴角, 办公室明亮荧光. 喜剧风, 屏幕字幕'试图轻松绷住', 9:16竖屏, 6秒.",
+        "Pika": "bright office meeting room, a young office worker, struggles to keep a straight face while a colleague says something absurd, slow zoom-in on twitching lips fighting back a smile, bright office fluorescent, comedic, with text overlay '试图轻松绷住', 9:16, 6s"
       },
       "characters": {
         "game": [
@@ -109,9 +109,9 @@
       "domain": "热点梗",
       "analysis": "校园场景: 班里同学对老师提问的'网速' (反应速度) 各不同, 网速姐是 6G (秒回), 旁边人是 5G/3G/2G 慢半拍/没听见. 用'手机信号格' 类比反应速度, 视觉反差强. 由@静皇a (网速姐) 引爆, 已成校园场景万能套路.",
       "prompts": {
-        "Sora": "A vibrant high school classroom split into four sub-frames showing the same teacher's question reaching four students at different speeds. Student 1 instant answer (6G icon), Student 2 mild delay (5G), Student 3 confused (3G), Student 4 fully zoned out (no signal). Anime-style overlay signal bars above each head, comedic timing, 9:16 vertical, 8 seconds.",
-        "Kling": "高中教室分四格: 同一老师提问到四个学生反应不同速度. 1立刻答(6G信号图标), 2轻微延迟(5G), 3困惑(3G), 4完全走神(无信号). 动漫风信号格特效悬头顶, 喜剧节奏, 9:16, 8秒",
-        "Pika": "Classroom split-four-frame, same question reaches students at different speeds, signal bar icons above heads 6G/5G/3G/no signal, anime overlay, comedic, 9:16, 8s"
+        "Sora": "vibrant Chinese high school classroom split into four sub-frames: four high school students sitting at desks react to the same teacher's question at different speeds with mobile signal bars above heads. static four-frame layout, comedic timing on each frame, bright natural daylight. anime-style overlay signal bars, kawaii comedic, 9:16 vertical, 8 seconds.",
+        "Kling": "鲜艳中国高中教室分四格: 四个高中生坐课桌对同一老师问题反应不同速度, 头顶悬手机信号格. 静止分四格布局, 每格喜剧节奏, 明亮自然日光. 动漫风信号格特效, 萌系喜剧, 9:16竖屏, 8秒.",
+        "Pika": "vibrant Chinese high school classroom split into four sub-frames, four high school students sitting at desks, react to the same teacher's question at different speeds with mobile signal bars above heads, static four-frame layout, comedic timing on each frame, bright natural daylight, anime-style overlay signal bars, kawaii comedic, 9:16, 8s"
       },
       "characters": {
         "game": [
@@ -134,9 +134,9 @@
       "domain": "热点梗",
       "analysis": "'夯' = 棒/猛/精彩 (老梗复活), '拉' = 拉胯/差. 整个表达式 '从夯到拉' / '夯爆了' / '拉完了' 形容某事/某人从精彩开始最后变差的过山车体验. 应用: 评价剧/游戏/产品/餐厅, 表达落差.",
       "prompts": {
-        "Sora": "Split-screen progression of a roller coaster experience: left frame a vibrant exciting moment labeled '夯', right frame the same scene faded sad and dimmed labeled '拉', transitioning slowly from left to right with mood-matched lighting. 9:16 vertical, 8 seconds.",
-        "Kling": "过山车体验分屏: 左 '夯' 鲜艳激动场景, 右 '拉' 同场景褪色暗淡, 慢速左到右过渡+对应灯光. 9:16, 8秒",
-        "Pika": "Split-screen 夯 vibrant exciting vs 拉 faded sad, slow transition, mood lighting, 9:16, 8s"
+        "Sora": "split-screen roller coaster experience: same person/scene compared in two states transitions from a vibrant exciting moment (labeled 夯) to a faded sad version (labeled 拉). slow left-to-right transition with mood-matched lighting, vibrant on left fade to dim on right. before/after comparison, cinematic letterbox, 9:16 vertical, 8 seconds.",
+        "Kling": "过山车体验分屏: 同一人物/场景两态对比从鲜艳激动场景 (标'夯') 过渡到褪色暗淡同场景 (标'拉'). 慢速左到右过渡 + 对应灯光, 左鲜艳右褪暗. 前后对比, 电影宽银幕, 9:16竖屏, 8秒.",
+        "Pika": "split-screen roller coaster experience, same person/scene compared in two states, transitions from a vibrant exciting moment (labeled 夯) to a faded sad version (labeled 拉), slow left-to-right transition with mood-matched lighting, vibrant on left fade to dim on right, before/after comparison, cinematic letterbox, 9:16, 8s"
       },
       "characters": {
         "game": [
@@ -159,9 +159,9 @@
       "domain": "热点梗",
       "analysis": "抽象梗, 反话: 任何坏运气/翻车/被坑都说'中奖概率倍儿高' 自嘲. 京味口音, 把霉运说成中奖. 应用场景: 排队总轮到自己被检查 / 等车一定迟到 / 选了最难走的路.",
       "prompts": {
-        "Sora": "A man in casual clothes stands at a bus stop in the rain looking up at the sky with deadpan resignation as buses pass without stopping. Subtitle overlay '中奖概率倍儿高' appears in playful font. Grey rainy palette, slight comedic timing, 9:16 vertical, 5 seconds.",
-        "Kling": "雨中公交站男生穿便服无奈仰望天空, 公交一辆辆开过不停. 屏幕字幕'中奖概率倍儿高' 俏皮字体. 灰色雨天调, 喜剧节奏, 9:16, 5秒",
-        "Pika": "Man at bus stop in rain, buses pass without stopping, deadpan, subtitle 中奖概率倍儿高, grey rainy, 9:16, 5s"
+        "Sora": "rainy city bus stop, grey overcast palette: a man in casual clothes standing at a bus stop in the rain looks up at sky with deadpan resignation as buses pass without stopping. static medium shot, slight comedic timing, grey overcast soft light. Beijing accent deadpan comedy, subtitle '中奖概率倍儿高' in playful font, 9:16 vertical, 5 seconds.",
+        "Kling": "雨天城市公交站, 灰色阴天调: 雨中公交站男生穿便服无奈仰望天空, 公交一辆辆开过不停. 中景静止, 喜剧节奏, 灰色阴天柔光. 京味儿冷面喜剧, 屏幕字幕'中奖概率倍儿高' 俏皮字体, 9:16竖屏, 5秒.",
+        "Pika": "rainy city bus stop, grey overcast palette, a man in casual clothes standing at a bus stop in the rain, looks up at sky with deadpan resignation as buses pass without stopping, static medium shot, slight comedic timing, grey overcast soft light, Beijing accent deadpan comedy, subtitle '中奖概率倍儿高' in playful font, 9:16, 5s"
       },
       "characters": {
         "game": [
@@ -184,9 +184,9 @@
       "domain": "热点梗",
       "analysis": "类似某流行歌词/台词的衍生梗 (具体出处待确认). 用法是当作'人生格言'式语调发出, 配抓拍的尴尬时刻, 反讽自我安慰. 应用场景: 偷吃东西被抓 / 装睡被识破 / 借口被戳穿.",
       "prompts": {
-        "Sora": "A young woman caught eating from the fridge late at night, freezes for a second, then sighs philosophically and continues eating. Subtitle overlay '何必心存侥幸何必太羞耻'. Warm kitchen lighting, slight slow-motion, 9:16 vertical, 6 seconds.",
-        "Kling": "深夜年轻女生从冰箱偷食被发现, 定格1秒然后哲学地叹气继续吃. 屏幕字幕'何必心存侥幸何必太羞耻'. 暖色厨房灯, 轻微慢镜, 9:16, 6秒",
-        "Pika": "Woman caught eating from fridge at night, freezes then sighs philosophically continues, subtitle 何必心存侥幸何必太羞耻, warm kitchen, 9:16, 6s"
+        "Sora": "home kitchen at night: a young woman caught eating from the fridge late at night freezes for a second then sighs philosophically and continues eating. slight slow-motion handheld, warm kitchen ambient with fridge light spilling. ironic self-soothing, subtitle '何必心存侥幸何必太羞耻', 9:16 vertical, 6 seconds.",
+        "Kling": "家厨房夜晚: 深夜年轻女生从冰箱偷食被发现定格一秒然后哲学地叹气继续吃. 轻微慢镜手持, 暖色厨房氛围光 + 冰箱内光溢出. 反讽自我安慰, 屏幕字幕'何必心存侥幸何必太羞耻', 9:16竖屏, 6秒.",
+        "Pika": "home kitchen at night, a young woman caught eating from the fridge late at night, freezes for a second then sighs philosophically and continues eating, slight slow-motion handheld, warm kitchen ambient with fridge light spilling, ironic self-soothing, subtitle '何必心存侥幸何必太羞耻', 9:16, 6s"
       },
       "characters": {
         "game": [
@@ -209,9 +209,9 @@
       "domain": "热点梗",
       "analysis": "用二工大事件梗做'第一视角'视频: 镜头主观视角进入教室 → 老师走来 → 学生主观视角砸桌喊杀. 转视角 + 反转, 模仿成本低. 可结合各种场景 (办公室/食堂/相亲) 做职场或日常二创.",
       "prompts": {
-        "Sora": "First-person POV shot inside a Chinese classroom: hands resting on desk, fingers twitching with anger, the teacher's silhouette approaches from blurred background. Sudden POV shake as hands slam down, vision red-tints, shouting 'kill kill kill' in synced audio. 9:16 vertical, 6 seconds.",
-        "Kling": "中式教室第一视角: 手放桌上手指颤抖, 老师模糊轮廓从背景走近. 突然视角晃动手砸桌, 视野泛红, 同步喊'杀杀杀'. 9:16, 6秒",
-        "Pika": "POV Chinese classroom, angry hands trembling, teacher silhouette approaches, slam desk POV shake red tint, kill kill kill, 9:16, 6s"
+        "Sora": "Chinese classroom with teacher silhouette approaching from blurred background: first-person POV inside a Chinese classroom hands resting on desk with fingers twitching slam down as vision red-tints shouting 'kill kill kill'. first-person POV with sudden shake on slam, dim classroom fluorescent with red tint on outburst. subjective intense, sync audio kill kill kill, 9:16 vertical, 6 seconds.",
+        "Kling": "中式教室, 老师模糊轮廓从背景走近: 中式教室第一视角手放桌上指尖颤抖砸桌, 视野泛红喊'杀杀杀'. 第一视角, 砸桌瞬间晃动, 昏暗教室荧光, 爆发瞬间泛红. 主观强烈, 同步音轨杀杀杀, 9:16竖屏, 6秒.",
+        "Pika": "Chinese classroom with teacher silhouette approaching from blurred background, first-person POV inside a Chinese classroom, hands resting on desk with fingers twitching slam down as vision red-tints shouting 'kill kill kill', first-person POV with sudden shake on slam, dim classroom fluorescent with red tint on outburst, subjective intense, sync audio kill kill kill, 9:16, 6s"
       },
       "characters": {
         "game": [
@@ -234,9 +234,9 @@
       "domain": "热门配音",
       "analysis": "把'杀杀杀'魔性内容用粤语/方言/外语翻唱重做. 跨语言反差产生笑点, 适合各种方言达人/语言学博主二创.",
       "prompts": {
-        "Sora": "A cartoonish bilingual narrator in casual clothes overlays Cantonese dubbed audio over the classic Chinese 'kill kill kill' clip. Split-screen comparison: original on left, Cantonese version on right with subtitles. Vibrant studio background, 9:16, 12 seconds.",
-        "Kling": "卡通双语博主, 用粤语翻唱'杀杀杀'原版片段, 左右分屏: 左原版/右粤语字幕版. 鲜艳工作室背景, 9:16, 12秒",
-        "Pika": "Bilingual narrator dubs kill clip in Cantonese, split-screen compare, vibrant studio, subtitles, 9:16, 12s"
+        "Sora": "vibrant studio background, split-screen left original right Cantonese subtitled: a cartoonish bilingual narrator in casual clothes overlays Cantonese dubbed audio over classic Chinese 'kill kill kill' clip in split-screen comparison. static medium shot, locked frame, studio key light with rim. language educator comedic, 9:16 vertical, 12 seconds.",
+        "Kling": "鲜艳工作室背景, 左右分屏: 左原版右粤语字幕: 卡通双语博主便装用粤语翻唱原版片段, 左右分屏对比. 中景静止, 固定画面, 工作室主光 + 轮廓光. 语言达人喜剧风, 9:16竖屏, 12秒.",
+        "Pika": "vibrant studio background, split-screen left original right Cantonese subtitled, a cartoonish bilingual narrator in casual clothes, overlays Cantonese dubbed audio over classic Chinese 'kill kill kill' clip in split-screen comparison, static medium shot, locked frame, studio key light with rim, language educator comedic, 9:16, 12s"
       },
       "characters": {
         "game": [
@@ -259,9 +259,9 @@
       "domain": "热点梗",
       "analysis": "抽象温柔梗, 歌词式句段: '不如喘口气吧小大人. 真心很贵. 不要什么都往心里去. 没心没肺才能活的不累. 真心很贵你别逢人就给. 感情很重你别轻易卑微.' 萌系 emoji 大量配合, 用在自嘲精神内耗/情感建议/打工人话题, 治愈+无奈+劝慰三合一. 蛋仔派对+脸式舞+游戏角色 (高松灯/芮娜) 都在用.",
       "prompts": {
-        "Sora": "A cute illustrated character (mascot style) sits on a tiny chair sighing softly with text-message bubbles floating up: 'rest a bit, little adult', 'sincerity is expensive', 'don't give your heart away too easily'. Soft pastel pink and lavender palette, gentle lo-fi mood, 9:16 vertical, 10 seconds.",
-        "Kling": "可爱吉祥物角色坐小椅子轻叹气, 文字气泡漂浮: '不如喘口气吧小大人' '真心很贵' '别逢人就给'. 粉紫柔和色调, lo-fi 治愈氛围, 9:16, 10秒",
-        "Pika": "Mascot sighs gently, text bubbles float, pastel pink lavender, lo-fi healing mood, vertical 9:16, 10s"
+        "Sora": "soft pastel pink and lavender room, lo-fi mood: a cute illustrated mascot character sits on a tiny chair sighing softly with text-message bubbles floating up containing the lyric phrases. gentle slow push-in, soft diffused pink-lavender gradient. healing pastel kawaii lo-fi, 9:16 vertical, 10 seconds.",
+        "Kling": "粉紫柔和房间, lo-fi 治愈氛围: 可爱插画吉祥物角色坐小椅子轻叹气, 歌词文字气泡漂浮上升. 轻柔慢推, 粉紫柔和漫射渐变. 治愈粉色可爱 lo-fi, 9:16竖屏, 10秒.",
+        "Pika": "soft pastel pink and lavender room, lo-fi mood, a cute illustrated mascot character, sits on a tiny chair sighing softly with text-message bubbles floating up containing the lyric phrases, gentle slow push-in, soft diffused pink-lavender gradient, healing pastel kawaii lo-fi, 9:16, 10s"
       },
       "characters": {
         "game": [
@@ -284,9 +284,9 @@
       "domain": "热门配音",
       "analysis": "三角洲行动玩家 jump-shot 老梗复用: '跳跃不是罪过, 跳是为了活'. 适合任何打游戏被人嘲笑'你怎么老跳' 反讽 / 职场被批 '你怎么老闪躲' 反讽. 旋律抓耳, 是个 BGM-style 梗.",
       "prompts": {
-        "Sora": "A gamer character mid-air in a jumping motion against a tactical FPS background, dust particles, frozen action shot. Text overlay '跳跃不是罪过 跳是为了活'. Bold game-trailer style, dramatic lighting, 9:16 vertical, 6 seconds.",
-        "Kling": "FPS 玩家角色空中跳跃定格, 战术背景+尘土粒子. 字幕'跳跃不是罪过 跳是为了活'. 游戏宣传片风格, 戏剧灯光, 9:16, 6秒",
-        "Pika": "Gamer mid-jump tactical FPS bg, action freeze, dust particles, subtitle 跳跃不是罪过 跳是为了活, game trailer, 9:16, 6s"
+        "Sora": "tactical FPS battlefield background with dust particles: a gamer character in tactical FPS gear frozen mid-air in a jumping motion. freeze-frame action shot, dramatic side lighting. bold game-trailer style with text overlay '跳跃不是罪过 跳是为了活', 9:16 vertical, 6 seconds.",
+        "Kling": "战术 FPS 战场背景 + 尘土粒子: FPS 玩家角色战术装空中跳跃定格. 定格动作镜头, 戏剧化侧光. 游戏宣传片风 + 字幕'跳跃不是罪过 跳是为了活', 9:16竖屏, 6秒.",
+        "Pika": "tactical FPS battlefield background with dust particles, a gamer character in tactical FPS gear, frozen mid-air in a jumping motion, freeze-frame action shot, dramatic side lighting, bold game-trailer style with text overlay '跳跃不是罪过 跳是为了活', 9:16, 6s"
       },
       "characters": {
         "game": [
@@ -309,9 +309,9 @@
       "domain": "热点梗",
       "analysis": "抖音评论区中网友互相 '审美积累' 的截图合集. 当某条视频出现真知灼见的高赞评论时, 网友说'又是评论区审美积累的一天'. 适合任何视频末尾切到评论区 + 高亮高赞评论的格式. 反思/感悟/共鸣类内容标配.",
       "prompts": {
-        "Sora": "A vertical phone screen mockup showing a TikTok-style comment section scrolling up, the top comment is highlighted with golden glow, text overlay '评论区审美积累'. Modern UI design, smooth scroll animation, 9:16 vertical, 8 seconds.",
-        "Kling": "竖屏手机界面: 抖音风格评论区上滚, 顶部高赞评论金色发光高亮, 字幕'评论区审美积累'. 现代 UI, 平滑滚动, 9:16, 8秒",
-        "Pika": "Vertical phone mockup TikTok comment section scrolling, top comment golden glow, subtitle 评论区审美积累, modern UI, 9:16, 8s"
+        "Sora": "modern UI design, smooth scroll animation: a vertical phone screen mockup shows a TikTok-style comment section scrolling up with top comment highlighted in golden glow. static phone-mockup framing, soft UI glow. interface mockup with subtitle '评论区审美积累', 9:16 vertical, 8 seconds.",
+        "Kling": "现代 UI, 平滑滚动: 竖屏手机界面抖音风格评论区上滚, 顶部高赞评论金色发光高亮. 手机模型固定画面, UI 柔光. 界面 mockup + 字幕'评论区审美积累', 9:16竖屏, 8秒.",
+        "Pika": "modern UI design, smooth scroll animation, a vertical phone screen mockup, shows a TikTok-style comment section scrolling up with top comment highlighted in golden glow, static phone-mockup framing, soft UI glow, interface mockup with subtitle '评论区审美积累', 9:16, 8s"
       },
       "characters": {
         "game": [
@@ -325,5 +325,6 @@
         ]
       }
     }
-  ]
+  ],
+  "_generated_by": "build_prompts.py from schemas/meme_schemas.json"
 }
