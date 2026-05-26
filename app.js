@@ -1,7 +1,7 @@
 // MemeHub front-end - 静态 SPA, 从 data.json 拉热梗数据渲染
 
 let allMemes = [];
-let currentDomain = "热梗";
+let currentDomain = "全部";
 let currentSearch = "";
 
 async function load() {
@@ -19,7 +19,7 @@ async function load() {
 
 function render() {
   const filtered = allMemes.filter((m) => {
-    if (m.domain !== currentDomain) return false;
+    if (currentDomain !== "全部" && m.domain !== currentDomain) return false;
     if (currentSearch && !JSON.stringify(m).toLowerCase().includes(currentSearch.toLowerCase()))
       return false;
     return true;
