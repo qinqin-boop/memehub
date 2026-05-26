@@ -1,0 +1,93 @@
+/* 教材专用样式 */
+main.textbook, main.textbook-toc {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 32px 24px;
+  line-height: 1.8;
+  color: #e6edf3;
+}
+
+main.textbook h1, main.textbook h2 {
+  color: #58a6ff;
+  border-bottom: 2px solid #30363d;
+  padding-bottom: 8px;
+  margin-top: 32px;
+}
+
+main.textbook h3 {
+  color: #d29922;
+  margin-top: 28px;
+}
+
+main.textbook h4 {
+  color: #3fb950;
+  margin-top: 20px;
+}
+
+main.textbook p {
+  margin: 12px 0;
+}
+
+main.textbook strong {
+  color: #58a6ff;
+}
+
+main.textbook blockquote {
+  border-left: 4px solid #d29922;
+  padding: 8px 16px;
+  margin: 16px 0;
+  background: #161b22;
+  font-style: italic;
+  color: #8b949e;
+}
+
+main.textbook li {
+  margin: 6px 0 6px 24px;
+}
+
+.textbook-toc ul {
+  list-style: none;
+  padding: 0;
+}
+
+.textbook-toc li {
+  background: #161b22;
+  border: 1px solid #30363d;
+  padding: 16px 20px;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+.textbook-toc li a {
+  color: #58a6ff;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.textbook-toc li a:hover {
+  text-decoration: underline;
+}
+
+.textbook-toc .meta {
+  color: #8b949e;
+  font-size: 0.85rem;
+  margin-left: 8px;
+}
+
+main.textbook nav, main.textbook-toc nav {
+  display: none;
+}
+
+header nav a {
+  color: #fff;
+  text-decoration: none;
+  background: rgba(255,255,255,0.15);
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 0.85rem;
+}
+
+header nav a:hover {
+  background: rgba(255,255,255,0.25);
+}
