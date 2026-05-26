@@ -2,18 +2,21 @@
 
 let allMemes = [];
 let allCharacters = null;
+let allBloggers = null;
 let currentDomain = "全部";
 let currentView = "memes";
 let currentSearch = "";
 
 async function load() {
   try {
-    const [memesRes, charsRes] = await Promise.all([
+    const [memesRes, charsRes, bloggersRes] = await Promise.all([
       fetch("data.json").then((r) => r.json()),
       fetch("characters.json").then((r) => r.json()).catch(() => null),
+      fetch("bloggers.json").then((r) => r.json()).catch(() => null),
     ]);
     allMemes = memesRes.memes || [];
     allCharacters = charsRes;
+    allBloggers = bloggersRes;
     document.getElementById("updated").textContent = memesRes.updated_at || "--";
     render();
   } catch (e) {
@@ -25,9 +28,40 @@ async function load() {
 function render() {
   if (currentView === "characters") {
     renderCharacters();
+  } else if (currentView === "bloggers") {
+    renderBloggers();
   } else {
     renderMemes();
   }
+}
+
+function renderBloggers() {
+  if (!allBloggers) {
+    document.getElementById("cards").innerHTML = '<p style="color:#8b949e">博主数据未加载</p>';
+    return;
+  }
+  const list = (allBloggers.bloggers || []).filter((b) => {
+    if (!currentSearch) return true;
+    return JSON.stringify(b).toLowerCase().includes(currentSearch.toLowerCase());
+  });
+  document.getElementById("count").textContent = `共 ${list.length} 个博主`;
+  const html = list
+    .map((b) => `
+      <div class="card blogger-card ${b.needs_input ? "needs-input" : ""}">
+        <h3>${escapeHtml(b.name)} ${b.needs_input ? '<span class="badge-todo">待澄清</span>' : ""}</h3>
+        <div class="source">${escapeHtml(b.douyin || "")}</div>
+        <div class="blogger-meta">
+          <div><strong>风格:</strong> ${escapeHtml(b.vibe || "—")}</div>
+          <div><strong>套路:</strong> ${escapeHtml(b.style || "—")}</div>
+        </div>
+        <div class="char-fit">
+          <strong>适合梗:</strong>
+          ${(b.fit_memes || []).map((m) => `<span class="meme-tag">${escapeHtml(m)}</span>`).join("")}
+        </div>
+      </div>
+    `)
+    .join("");
+  document.getElementById("cards").innerHTML = html || '<p style="color:#8b949e">无匹配博主</p>';
 }
 
 function renderMemes() {

@@ -271,6 +271,34 @@ main {
   color: #adbac7;
 }
 
+.blogger-card .blogger-meta {
+  background: #0d1117;
+  padding: 10px;
+  border-radius: 6px;
+  margin: 10px 0;
+  font-size: 0.85rem;
+  color: #adbac7;
+}
+
+.blogger-card .blogger-meta strong {
+  color: #d29922;
+}
+
+.blogger-card.needs-input {
+  border-color: #d29922;
+}
+
+.badge-todo {
+  display: inline-block;
+  background: #d2992233;
+  color: #d29922;
+  border: 1px solid #d29922;
+  font-size: 0.7rem;
+  padding: 2px 8px;
+  border-radius: 8px;
+  vertical-align: middle;
+}
+
 .prompt-tabs {
   display: flex;
   gap: 4px;
