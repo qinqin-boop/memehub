@@ -68,16 +68,48 @@
       "tag": "结构"
     },
     {
-      "title": "模型选择 (2026-05 实测)",
+      "title": "2026-05 完整 15 模型横评 (源自 cclank/lanshu 4 小时前更新)",
       "tips": [
-        "**可灵 (Kling) 2.6+**: 动作控制最稳, 真人写实+二次元都强, 当前榜首",
-        "**Sora 2**: 角色一致性强, 英文场景最稳, 30 秒长视频上限",
-        "**即梦 (Seedance 2.0)**: 一句话生成强, 国风/动漫好, 字节出品",
-        "**Pika**: 短视频快出, 5-10 秒最甜区",
-        "**Luma**: 镜头运动自然, 影视感强",
-        "**Runway Gen-3**: 商用导向, 接 API 容易"
+        "⭐ **Seedance 2.0** (字节, 即梦底层): 综合 SOTA, 53 页官方 PDF + 8 要素公式, 60s 2K, 中文/音频/物理三★",
+        "**Kling 3.0** S 级 (快手): 中文+图生+48fps 1080p + lip-sync, 2 分钟最长, 中文 5 星",
+        "**Veo 3.1** S 级 (Google): 原生音频最强 + 多人对话, 60s, 音频 5 星",
+        "**Sora 2** ⚠️ web/app 已 2026-04-26 停产, API 还能用到 9-24",
+        "**Runway Gen-4.5 / Aleph**: ELO 第一, Aleph 视频编辑独家, 30s",
+        "**HappyHorse 1.0** (阿里, 新): 紧凑短片 + 30-55 词 + 8s 时序节拍 + 原生环境音",
+        "**Hailuo 02** (MiniMax): 物理仿真业界第一, 1080p, 10s",
+        "**Pika 2.5**: 性价比之王 + Pikaffects 15+ 创意特效, 25s",
+        "**Hunyuan Video 1.5** (腾讯开源): 开源最强商业 13B/8.3B + LoRA, RTX 4090 可跑",
+        "**Wan 2.7** (阿里通义): 数字人 lip-sync 最准, 音频 5 星",
+        "**即梦 AI** (字节剪映): 中文最强 + 剪映集成, 60s 2K",
+        "🔓 开源: LTX-Video 0.9.7 (实时 30fps) / Mochi 1 (10B Apache 2.0) / CogVideoX 5B (智谱清华 226 token) / Higgsfield Soul (角色一致性+AI 分镜)"
       ],
       "tag": "选模"
+    },
+    {
+      "title": "Seedance 2.0 八要素公式 (字节官方 53 页 PDF)",
+      "tips": [
+        "**1 Subject (主体)**: 谁/什么. 越具体越好 (年龄/服装/特征)",
+        "**2 Action (动作)**: 在做什么. 用强动词",
+        "**3 Setting (场景)**: 在哪里 + 时间感",
+        "**4 Camera (镜头)**: 角度 + 运镜 + 焦段",
+        "**5 Lighting (光)**: 主光 + 副光 + 时间",
+        "**6 Style (风格)**: cinematic / anime / hyperreal",
+        "**7 Mood (氛围)**: 情绪关键词",
+        "**8 Quality (质量)**: 4K / 8s / 9:16 等参数"
+      ],
+      "tag": "公式"
+    },
+    {
+      "title": "推荐金矿: cclank/lanshu-awesome-ai-video-kit (411 prompt + 15 模型 + 7 Claude Skill)",
+      "tips": [
+        "**GitHub**: github.com/cclank/lanshu-awesome-ai-video-kit (68 stars, 4 小时前更新)",
+        "**亮点**: 每条 prompt 必带 source 字段链官方文档; GitHub Action 每周一 09:00 北京时间巡检 32 个官方端点版本变化",
+        "**7 个 Claude Code Skill**: model-selector (用哪个模型) / prompt-translator (跨模型转换) / seedance-prompter / seedance-storyboard / seedance-debugger / happyhorse-prompter / kling-prompter",
+        "**14 篇方法论 SOP**: 基础公式 → 各家公式 (Sora Shot List / Veo 8 元素 / Kling 5 层 / ...) → 决策树",
+        "**5 秒上手**: git clone + python3 serve.py 8000 → 本地看",
+        "**对 MemeHub 的启示**: 我们可以 fork prompt-translator 让用户一键换模型 (Veo prompt 转 Kling 写法)"
+      ],
+      "tag": "工具包"
     },
     {
       "title": "万能爆款 10 秒拆解模板 (西西Ai手册)",
