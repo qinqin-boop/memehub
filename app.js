@@ -4,22 +4,25 @@ let allMemes = [];
 let allCharacters = null;
 let allBloggers = null;
 let allGuides = null;
+let allNews = null;
 let currentDomain = "全部";
 let currentView = "memes";
 let currentSearch = "";
 
 async function load() {
   try {
-    const [memesRes, charsRes, bloggersRes, guideRes] = await Promise.all([
+    const [memesRes, charsRes, bloggersRes, guideRes, newsRes] = await Promise.all([
       fetch("data.json").then((r) => r.json()),
       fetch("characters.json").then((r) => r.json()).catch(() => null),
       fetch("bloggers.json").then((r) => r.json()).catch(() => null),
       fetch("prompt_guide.json").then((r) => r.json()).catch(() => null),
+      fetch("hot_news.json").then((r) => r.json()).catch(() => null),
     ]);
     allMemes = memesRes.memes || [];
     allCharacters = charsRes;
     allBloggers = bloggersRes;
     allGuides = guideRes;
+    allNews = newsRes;
     document.getElementById("updated").textContent = memesRes.updated_at || "--";
     render();
   } catch (e) {
@@ -35,9 +38,45 @@ function render() {
     renderBloggers();
   } else if (currentView === "guide") {
     renderGuide();
+  } else if (currentView === "news") {
+    renderNews();
   } else {
     renderMemes();
   }
+}
+
+function renderNews() {
+  if (!allNews) {
+    document.getElementById("cards").innerHTML = '<p style="color:#8b949e">热点新闻数据未加载</p>';
+    return;
+  }
+  const list = (allNews.news || []).filter((n) => {
+    if (!currentSearch) return true;
+    return JSON.stringify(n).toLowerCase().includes(currentSearch.toLowerCase());
+  });
+  // 按 category 分组
+  const groups = {};
+  list.forEach((n) => {
+    const cat = n.category || "其他";
+    if (!groups[cat]) groups[cat] = [];
+    groups[cat].push(n);
+  });
+  document.getElementById("count").textContent = `共 ${list.length} 条热点新闻/趋势 · ${Object.keys(groups).length} 个分类`;
+  let html = "";
+  for (const cat of Object.keys(groups)) {
+    html += `<div class="news-section"><h2>📂 ${escapeHtml(cat)} <span class="game-tag">${groups[cat].length}</span></h2><div class="news-list">`;
+    for (const n of groups[cat]) {
+      html += `
+        <div class="card news-card">
+          <h3>${escapeHtml(n.title)}</h3>
+          <div class="source">${escapeHtml(n.date)} · ${escapeHtml(n.source)}</div>
+          <div class="analysis">${escapeHtml(n.description)}</div>
+          <div class="video-angle"><strong>🎬 视频角度:</strong> ${escapeHtml(n.video_angle || "")}</div>
+        </div>`;
+    }
+    html += "</div></div>";
+  }
+  document.getElementById("cards").innerHTML = html || '<p style="color:#8b949e">无匹配新闻</p>';
 }
 
 function renderGuide() {

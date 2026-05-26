@@ -426,3 +426,17 @@ footer a:hover {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* ===== News view ===== */
+.news-section { margin: 24px 0; }
+.news-section h2 {
+  color: #1a365d;
+  font-size: 1.2rem;
+  border-bottom: 2px solid #c9b97a;
+  padding-bottom: 6px;
+  margin-bottom: 12px;
+}
+.news-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; }
+.news-card { padding: 14px; border-left: 4px solid #2d6e2d; background: #fff; border-radius: 6px; }
+.news-card .video-angle { margin-top: 8px; padding: 6px 10px; background: #fef6e4; border-radius: 4px; color: #8b6f1c; font-size: 0.88rem; }
