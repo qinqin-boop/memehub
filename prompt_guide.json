@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-05-26 16:33",
+  "updated_at": "2026-05-26 16:57",
   "guides": [
+    {
+      "title": "⚠️ 重大事实更新: Sora 已停产 (从 OpenAI 官方帮助页抓的)",
+      "tips": [
+        "**Sora 网页/App 已于 2026-04-26 停产**. 网址 sora.chatgpt.com 现在是日落页",
+        "**Sora API 将于 2026-09-24 停产**. 现在能用但 4 个月内必迁",
+        "ChatGPT/Sora credits 可转用到 **Codex** (OpenAI 新代号)",
+        "**对你的影响**: MemeHub 数据里 'Sora' 提示词只在 API 期内有用. 主力换 **可灵 2.6+ / Veo 3 / Runway Gen-4.5 / 即梦 Seedance 2.0 / Pika 2.0**",
+        "出海创作者主推: Veo 3 (Google) + Runway Gen-4.5; 国内: 可灵 + 即梦"
+      ],
+      "tag": "⚠️ 重要"
+    },
     {
       "title": "去 AI 味三件套 (赛博 AI 4 月教学, 1.4w)",
       "tips": [
