@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26 17:40 (schema-generated)",
+  "updated_at": "2026-05-27 00:55 (富贵 seed 30 经典梗)",
   "memes": [
     {
       "title": "EXO 第13人 曾经的王 King",
@@ -324,6 +324,1572 @@
           "段子搬运博主"
         ]
       }
+    },
+    {
+      "title": "鸡你太美",
+      "source": "蔡徐坤 NBA 大使 cut",
+      "date": "2018 起持续发酵",
+      "heat": "B站/抖音 上亿",
+      "domain": "经典抽象梗",
+      "analysis": "蔡徐坤打篮球唱跳片段被网友剪辑成迷因, 'ji ni tai mei' 鸡你太美口播 + 篮球动作, 抽象梗鼻祖之一, 各种二创无数.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 鸡你太美. Visual setting per analysis: 蔡徐坤打篮球唱跳片段被网友剪辑成迷因, 'ji ni tai mei' 鸡你太美口播 + 篮球动作, 抽象梗鼻祖之一, 各种二创无数.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 鸡你太美. 视觉设定: 蔡徐坤打篮球唱跳片段被网友剪辑成迷因, 'ji ni tai mei' 鸡你太美口播 + 篮球动作, 抽象梗鼻祖之一, . 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 鸡你太美, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "蚌埠住了",
+      "source": "弹幕用语",
+      "date": "2021 起",
+      "heat": "全网",
+      "domain": "情绪表达梗",
+      "analysis": "本意'笑得受不了' (绷不住了 → 蚌埠住了), 取自安徽蚌埠地名谐音. 用于无语/震惊/笑场场景.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 蚌埠住了. Visual setting per analysis: 本意'笑得受不了' (绷不住了 → 蚌埠住了), 取自安徽蚌埠地名谐音. 用于无语/震惊/笑场场景.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 蚌埠住了. 视觉设定: 本意'笑得受不了' (绷不住了 → 蚌埠住了), 取自安徽蚌埠地名谐音. 用于无语/震惊/笑场场景.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 蚌埠住了, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "退退退",
+      "source": "上海大姐怒斥男子",
+      "date": "2022-06",
+      "heat": "千万级播放",
+      "domain": "对抗反击梗",
+      "analysis": "上海一位大姐对挑衅男子做手势挥拳喊'退退退', 后用来挡晦气/拒绝. 适合做反派遭驱赶题材.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 退退退. Visual setting per analysis: 上海一位大姐对挑衅男子做手势挥拳喊'退退退', 后用来挡晦气/拒绝. 适合做反派遭驱赶题材.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 退退退. 视觉设定: 上海一位大姐对挑衅男子做手势挥拳喊'退退退', 后用来挡晦气/拒绝. 适合做反派遭驱赶题材.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 退退退, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "挖呀挖呀挖",
+      "source": "黄老师幼师儿歌",
+      "date": "2023-05",
+      "heat": "10亿+",
+      "domain": "魔性洗脑梗",
+      "analysis": "幼师黄老师弹唱'在小小的花园里面挖呀挖呀挖', 治愈系魔性洗脑. 适合做田园/治愈/教学场景.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 挖呀挖呀挖. Visual setting per analysis: 幼师黄老师弹唱'在小小的花园里面挖呀挖呀挖', 治愈系魔性洗脑. 适合做田园/治愈/教学场景.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 挖呀挖呀挖. 视觉设定: 幼师黄老师弹唱'在小小的花园里面挖呀挖呀挖', 治愈系魔性洗脑. 适合做田园/治愈/教学场景.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 挖呀挖呀挖, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "我是云南的",
+      "source": "云南民族村 cosplay",
+      "date": "2024 起",
+      "heat": "全网",
+      "domain": "民族特色梗",
+      "analysis": "'我是云南的, 云南怒江的' 蔡总民族唱腔 + 服饰 + 怒江方言, 适合做民族风/旅游/方言梗.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 我是云南的. Visual setting per analysis: '我是云南的, 云南怒江的' 蔡总民族唱腔 + 服饰 + 怒江方言, 适合做民族风/旅游/方言梗.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 我是云南的. 视觉设定: '我是云南的, 云南怒江的' 蔡总民族唱腔 + 服饰 + 怒江方言, 适合做民族风/旅游/方言梗.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 我是云南的, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "好嘞您嘞",
+      "source": "茶馆相声 cut",
+      "date": "经典持续",
+      "heat": "全网",
+      "domain": "服务业梗",
+      "analysis": "传统茶馆相声待客回应, 北京味儿. 适合做服务态度/老北京/餐饮场景.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 好嘞您嘞. Visual setting per analysis: 传统茶馆相声待客回应, 北京味儿. 适合做服务态度/老北京/餐饮场景.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 好嘞您嘞. 视觉设定: 传统茶馆相声待客回应, 北京味儿. 适合做服务态度/老北京/餐饮场景.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 好嘞您嘞, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "听我说谢谢你",
+      "source": "李昕融儿歌",
+      "date": "2022-04",
+      "heat": "10亿+",
+      "domain": "感谢梗",
+      "analysis": "儿歌'听我说谢谢你, 因为有你温暖了四季', 后被用来嘲讽形式主义感谢. 适合做矛盾感/反讽题材.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 听我说谢谢你. Visual setting per analysis: 儿歌'听我说谢谢你, 因为有你温暖了四季', 后被用来嘲讽形式主义感谢. 适合做矛盾感/反讽题材.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 听我说谢谢你. 视觉设定: 儿歌'听我说谢谢你, 因为有你温暖了四季', 后被用来嘲讽形式主义感谢. 适合做矛盾感/反讽题材.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 听我说谢谢你, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "芭比 Q 了",
+      "source": "海底捞员工台词",
+      "date": "2021 起",
+      "heat": "全网",
+      "domain": "完蛋梗",
+      "analysis": "海底捞员工招呼客人'芭比 Q 了' (BBQ 谐音), 引申'完蛋了'. 适合做事故/翻车场景.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 芭比 Q 了. Visual setting per analysis: 海底捞员工招呼客人'芭比 Q 了' (BBQ 谐音), 引申'完蛋了'. 适合做事故/翻车场景.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 芭比 Q 了. 视觉设定: 海底捞员工招呼客人'芭比 Q 了' (BBQ 谐音), 引申'完蛋了'. 适合做事故/翻车场景.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 芭比 Q 了, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "city 不 city 啊",
+      "source": "外国博主保保熊",
+      "date": "2024-06",
+      "heat": "千万+",
+      "domain": "外国博主梗",
+      "analysis": "美国博主保保熊在上海玩问'city 不 city 啊, 好洋气的样子', 中英混合, 外国人看中国梗. 适合做外国人视角/中外对比.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: city 不 city 啊. Visual setting per analysis: 美国博主保保熊在上海玩问'city 不 city 啊, 好洋气的样子', 中英混合, 外国人看中国梗. 适合做外国人视角/中外对比.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: city 不 city 啊. 视觉设定: 美国博主保保熊在上海玩问'city 不 city 啊, 好洋气的样子', 中英混合, 外国人看中国梗. 适合做外国人视角. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: city 不 city 啊, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "尊嘟假嘟",
+      "source": "网络配音口癖",
+      "date": "2024",
+      "heat": "全网",
+      "domain": "可爱反问梗",
+      "analysis": "'真的假的' → '尊嘟假嘟', 萌系疑问反问. 适合做撒娇/确认/可爱角色.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 尊嘟假嘟. Visual setting per analysis: '真的假的' → '尊嘟假嘟', 萌系疑问反问. 适合做撒娇/确认/可爱角色.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 尊嘟假嘟. 视觉设定: '真的假的' → '尊嘟假嘟', 萌系疑问反问. 适合做撒娇/确认/可爱角色.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 尊嘟假嘟, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "瑞士军刀型选手",
+      "source": "全能型人才",
+      "date": "2024",
+      "heat": "职场广泛",
+      "domain": "能力评价梗",
+      "analysis": "形容一个人技能全能, 啥都会一点. 适合做职场/能力展示场景.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 瑞士军刀型选手. Visual setting per analysis: 形容一个人技能全能, 啥都会一点. 适合做职场/能力展示场景.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 瑞士军刀型选手. 视觉设定: 形容一个人技能全能, 啥都会一点. 适合做职场/能力展示场景.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 瑞士军刀型选手, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "电子木鱼",
+      "source": "解压 APP",
+      "date": "2023-09",
+      "heat": "全网爆",
+      "domain": "解压电子梗",
+      "analysis": "网友把佛家木鱼电子化, 点一下功德 +1, 解压用. 适合做佛系/打工人/解压场景.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 电子木鱼. Visual setting per analysis: 网友把佛家木鱼电子化, 点一下功德 +1, 解压用. 适合做佛系/打工人/解压场景.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 电子木鱼. 视觉设定: 网友把佛家木鱼电子化, 点一下功德 +1, 解压用. 适合做佛系/打工人/解压场景.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 电子木鱼, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "公主请上车",
+      "source": "司机礼貌梗",
+      "date": "2023",
+      "heat": "千万级",
+      "domain": "宠溺梗",
+      "analysis": "网约车司机/朋友开车门'公主请上车', 宠溺反差. 适合做礼貌/反差/恋爱场景.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 公主请上车. Visual setting per analysis: 网约车司机/朋友开车门'公主请上车', 宠溺反差. 适合做礼貌/反差/恋爱场景.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 公主请上车. 视觉设定: 网约车司机/朋友开车门'公主请上车', 宠溺反差. 适合做礼貌/反差/恋爱场景.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 公主请上车, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "烟雾缭绕的山",
+      "source": "西北 + 苍凉风",
+      "date": "2024",
+      "heat": "千万",
+      "domain": "西北空灵梗",
+      "analysis": "刀郎/西北民谣 + 苍凉山景, 文艺空灵. 适合做民谣/MV/远方.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 烟雾缭绕的山. Visual setting per analysis: 刀郎/西北民谣 + 苍凉山景, 文艺空灵. 适合做民谣/MV/远方.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 烟雾缭绕的山. 视觉设定: 刀郎/西北民谣 + 苍凉山景, 文艺空灵. 适合做民谣/MV/远方.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 烟雾缭绕的山, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "我嘞个豆",
+      "source": "网络感叹词",
+      "date": "2024",
+      "heat": "全网常用",
+      "domain": "震惊感叹",
+      "analysis": "无奈/震惊/无语时使用. 适合做反应/夸张表达.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 我嘞个豆. Visual setting per analysis: 无奈/震惊/无语时使用. 适合做反应/夸张表达.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 我嘞个豆. 视觉设定: 无奈/震惊/无语时使用. 适合做反应/夸张表达.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 我嘞个豆, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "瓦学弟",
+      "source": "瓦罗兰特玩家",
+      "date": "2024",
+      "heat": "游戏圈",
+      "domain": "电竞圈梗",
+      "analysis": "形容学瓦罗兰特的新手, 引申电竞圈年轻一代. 适合做电竞/新手/反差.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 瓦学弟. Visual setting per analysis: 形容学瓦罗兰特的新手, 引申电竞圈年轻一代. 适合做电竞/新手/反差.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 瓦学弟. 视觉设定: 形容学瓦罗兰特的新手, 引申电竞圈年轻一代. 适合做电竞/新手/反差.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 瓦学弟, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "孤勇者神曲",
+      "source": "陈奕迅 → 全网儿歌",
+      "date": "2022-2024 持续",
+      "heat": "10亿+",
+      "domain": "国民神曲梗",
+      "analysis": "原是英雄联盟动画曲, 但被全国小学生反复唱, 成新一代儿歌. 适合做反差/小孩 cover/激励.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 孤勇者神曲. Visual setting per analysis: 原是英雄联盟动画曲, 但被全国小学生反复唱, 成新一代儿歌. 适合做反差/小孩 cover/激励.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 孤勇者神曲. 视觉设定: 原是英雄联盟动画曲, 但被全国小学生反复唱, 成新一代儿歌. 适合做反差/小孩 cover/激励.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 孤勇者神曲, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "退役 ETC",
+      "source": "ETC 男孩告别朋友圈",
+      "date": "2024",
+      "heat": "千万",
+      "domain": "毕业/告别梗",
+      "analysis": "毕业生学姐学长用 ETC 卡告别校园, 走前刷一下卡象征毕业.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 退役 ETC. Visual setting per analysis: 毕业生学姐学长用 ETC 卡告别校园, 走前刷一下卡象征毕业.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 退役 ETC. 视觉设定: 毕业生学姐学长用 ETC 卡告别校园, 走前刷一下卡象征毕业.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 退役 ETC, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "AI 出来吃饭",
+      "source": "AI 模型唤醒梗",
+      "date": "2024 起",
+      "heat": "技术圈",
+      "domain": "AI 启动梗",
+      "analysis": "调用 AI 模型时戏称'AI 出来吃饭啦'. 适合做技术/AI/工作场景.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: AI 出来吃饭. Visual setting per analysis: 调用 AI 模型时戏称'AI 出来吃饭啦'. 适合做技术/AI/工作场景.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: AI 出来吃饭. 视觉设定: 调用 AI 模型时戏称'AI 出来吃饭啦'. 适合做技术/AI/工作场景.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: AI 出来吃饭, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "电子榨菜",
+      "source": "短视频配饭",
+      "date": "2024-25 持续",
+      "heat": "千万级",
+      "domain": "陪伴梗",
+      "analysis": "吃饭时刷视频陪伴, 视频内容像榨菜下饭. 适合做美食/单身/陪伴.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 电子榨菜. Visual setting per analysis: 吃饭时刷视频陪伴, 视频内容像榨菜下饭. 适合做美食/单身/陪伴.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 电子榨菜. 视觉设定: 吃饭时刷视频陪伴, 视频内容像榨菜下饭. 适合做美食/单身/陪伴.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 电子榨菜, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "躺平/摆烂",
+      "source": "躺平摆烂文化",
+      "date": "2021-持续",
+      "heat": "全网共识",
+      "domain": "颓废文化梗",
+      "analysis": "'躺平 / 摆烂' = 拒绝内卷, 不奋斗了. 适合做职场/反内卷/年轻人态度.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 躺平/摆烂. Visual setting per analysis: '躺平 / 摆烂' = 拒绝内卷, 不奋斗了. 适合做职场/反内卷/年轻人态度.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 躺平/摆烂. 视觉设定: '躺平 / 摆烂' = 拒绝内卷, 不奋斗了. 适合做职场/反内卷/年轻人态度.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 躺平/摆烂, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "精神状态超前 50 年",
+      "source": "网友自嘲",
+      "date": "2024",
+      "heat": "千万",
+      "domain": "心态梗",
+      "analysis": "'我精神状态超前 50 年, 已经退休了' 自嘲生活态度. 适合做心态/反讽.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 精神状态超前 50 年. Visual setting per analysis: '我精神状态超前 50 年, 已经退休了' 自嘲生活态度. 适合做心态/反讽.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 精神状态超前 50 年. 视觉设定: '我精神状态超前 50 年, 已经退休了' 自嘲生活态度. 适合做心态/反讽.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 精神状态超前 50 年, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "电子玛丽苏",
+      "source": "AI 配男友/女友",
+      "date": "2024-25",
+      "heat": "千万级",
+      "domain": "AI 情感梗",
+      "analysis": "用 AI 聊天 APP 配电子伴侣谈恋爱, 适合做 AI/情感/孤独.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 电子玛丽苏. Visual setting per analysis: 用 AI 聊天 APP 配电子伴侣谈恋爱, 适合做 AI/情感/孤独.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 电子玛丽苏. 视觉设定: 用 AI 聊天 APP 配电子伴侣谈恋爱, 适合做 AI/情感/孤独.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 电子玛丽苏, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "赛博菩萨",
+      "source": "电子木鱼 + 赛博朋克",
+      "date": "2024",
+      "heat": "全网",
+      "domain": "玄学梗",
+      "analysis": "网络上烧香拜佛, 赛博菩萨保佑事业 + 考运. 适合做玄学/打工人/数字仪式.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 赛博菩萨. Visual setting per analysis: 网络上烧香拜佛, 赛博菩萨保佑事业 + 考运. 适合做玄学/打工人/数字仪式.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 赛博菩萨. 视觉设定: 网络上烧香拜佛, 赛博菩萨保佑事业 + 考运. 适合做玄学/打工人/数字仪式.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 赛博菩萨, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "ootd 哆啦 A 梦风格",
+      "source": "穿搭 + 漫画风",
+      "date": "2025",
+      "heat": "千万",
+      "domain": "时尚穿搭梗",
+      "analysis": "outfit-of-the-day 配上哆啦 A 梦元素, 复古萌系. 适合做时尚/复古/穿搭.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: ootd 哆啦 A 梦风格. Visual setting per analysis: outfit-of-the-day 配上哆啦 A 梦元素, 复古萌系. 适合做时尚/复古/穿搭.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: ootd 哆啦 A 梦风格. 视觉设定: outfit-of-the-day 配上哆啦 A 梦元素, 复古萌系. 适合做时尚/复古/穿搭.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: ootd 哆啦 A 梦风格, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "我的快乐源泉来自...",
+      "source": "快乐归因梗",
+      "date": "2024-25",
+      "heat": "广泛",
+      "domain": "快乐归因梗",
+      "analysis": "细数自己最近的小确幸/快乐源泉, 治愈系. 适合做生活记录/治愈/反内卷.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 我的快乐源泉来自.... Visual setting per analysis: 细数自己最近的小确幸/快乐源泉, 治愈系. 适合做生活记录/治愈/反内卷.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 我的快乐源泉来自.... 视觉设定: 细数自己最近的小确幸/快乐源泉, 治愈系. 适合做生活记录/治愈/反内卷.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 我的快乐源泉来自..., vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "电子游民",
+      "source": "数字游民进化版",
+      "date": "2025",
+      "heat": "千万",
+      "domain": "新型生活方式",
+      "analysis": "工作 + 居家办公 + 周末 vlog, 像电子游民. 适合做生活方式/远程办公/自由职业.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 电子游民. Visual setting per analysis: 工作 + 居家办公 + 周末 vlog, 像电子游民. 适合做生活方式/远程办公/自由职业.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 电子游民. 视觉设定: 工作 + 居家办公 + 周末 vlog, 像电子游民. 适合做生活方式/远程办公/自由职业.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 电子游民, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "挖呀挖之 AI 进化版",
+      "source": "黄老师 + AI 复刻",
+      "date": "2024-25",
+      "heat": "千万",
+      "domain": "AI 二创梗",
+      "analysis": "把原来的挖呀挖儿歌用 AI 重新合成/换脸. 适合做 AI 应用/儿童内容.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 挖呀挖之 AI 进化版. Visual setting per analysis: 把原来的挖呀挖儿歌用 AI 重新合成/换脸. 适合做 AI 应用/儿童内容.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 挖呀挖之 AI 进化版. 视觉设定: 把原来的挖呀挖儿歌用 AI 重新合成/换脸. 适合做 AI 应用/儿童内容.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 挖呀挖之 AI 进化版, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "吃瓜群众",
+      "source": "看热闹不嫌事大",
+      "date": "经典持续",
+      "heat": "全网",
+      "domain": "围观心态梗",
+      "analysis": "围观八卦/吃瓜群众, 适合做事件围观/反应/八卦.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 吃瓜群众. Visual setting per analysis: 围观八卦/吃瓜群众, 适合做事件围观/反应/八卦.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 吃瓜群众. 视觉设定: 围观八卦/吃瓜群众, 适合做事件围观/反应/八卦.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 吃瓜群众, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "Y2K 复古风",
+      "source": "千禧年审美回潮",
+      "date": "2024-25",
+      "heat": "全网",
+      "domain": "复古时尚梗",
+      "analysis": "Y2K (2000 年代) 复古时尚回潮, 蝴蝶/低腰/亮色. 适合做时尚/复古/Gen-Z.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: Y2K 复古风. Visual setting per analysis: Y2K (2000 年代) 复古时尚回潮, 蝴蝶/低腰/亮色. 适合做时尚/复古/Gen-Z.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: Y2K 复古风. 视觉设定: Y2K (2000 年代) 复古时尚回潮, 蝴蝶/低腰/亮色. 适合做时尚/复古/Gen-Z.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: Y2K 复古风, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "葫芦娃救爷爷",
+      "source": "葫芦兄弟动画",
+      "date": "经典持续",
+      "heat": "全网",
+      "domain": "影视经典梗",
+      "analysis": "国产动画葫芦兄弟段子, 救爷爷过程的悲喜. 适合做家族/救援/反讽.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 葫芦娃救爷爷. Visual setting per analysis: 国产动画葫芦兄弟段子, 救爷爷过程的悲喜. 适合做家族/救援/反讽.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 葫芦娃救爷爷. 视觉设定: 国产动画葫芦兄弟段子, 救爷爷过程的悲喜. 适合做家族/救援/反讽.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 葫芦娃救爷爷, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "我是渣男",
+      "source": "影视台词演化",
+      "date": "2019 起",
+      "heat": "全网",
+      "domain": "自嘲梗",
+      "analysis": "戏精/恋爱段子里男主角自爆'我是渣男'. 适合做恋爱反讽/自嘲.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 我是渣男. Visual setting per analysis: 戏精/恋爱段子里男主角自爆'我是渣男'. 适合做恋爱反讽/自嘲.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 我是渣男. 视觉设定: 戏精/恋爱段子里男主角自爆'我是渣男'. 适合做恋爱反讽/自嘲.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 我是渣男, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "奥利给",
+      "source": "黑龙江冬泳怪鸽",
+      "date": "2019-2020",
+      "heat": "千万+",
+      "domain": "鼓劲梗",
+      "analysis": "'加油!奥利给!' 黑龙江冬泳大爷喊话, 励志正能量. 适合做激励/努力.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 奥利给. Visual setting per analysis: '加油!奥利给!' 黑龙江冬泳大爷喊话, 励志正能量. 适合做激励/努力.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 奥利给. 视觉设定: '加油!奥利给!' 黑龙江冬泳大爷喊话, 励志正能量. 适合做激励/努力.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 奥利给, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "元芳你怎么看",
+      "source": "神探狄仁杰",
+      "date": "2012 起持续",
+      "heat": "全网",
+      "domain": "经典询问梗",
+      "analysis": "狄仁杰问元芳, 后被用来问任何反应. 适合做询问/反应场景.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 元芳你怎么看. Visual setting per analysis: 狄仁杰问元芳, 后被用来问任何反应. 适合做询问/反应场景.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 元芳你怎么看. 视觉设定: 狄仁杰问元芳, 后被用来问任何反应. 适合做询问/反应场景.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 元芳你怎么看, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "丸子玩具枪",
+      "source": "丸子小姐姐 cosplay",
+      "date": "2020-21",
+      "heat": "千万",
+      "domain": "甜系梗",
+      "analysis": "Y2K 风甜系小姐姐拿玩具枪自拍, 萌系. 适合做甜系/可爱/Y2K.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 丸子玩具枪. Visual setting per analysis: Y2K 风甜系小姐姐拿玩具枪自拍, 萌系. 适合做甜系/可爱/Y2K.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 丸子玩具枪. 视觉设定: Y2K 风甜系小姐姐拿玩具枪自拍, 萌系. 适合做甜系/可爱/Y2K.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 丸子玩具枪, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "年轻人不讲武德",
+      "source": "马保国",
+      "date": "2020",
+      "heat": "10亿+",
+      "domain": "武林闪击梗",
+      "analysis": "'年轻人不讲武德, 偷袭我一个 69 岁的老同志'马保国. 适合做反击/调侃/江湖.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 年轻人不讲武德. Visual setting per analysis: '年轻人不讲武德, 偷袭我一个 69 岁的老同志'马保国. 适合做反击/调侃/江湖.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 年轻人不讲武德. 视觉设定: '年轻人不讲武德, 偷袭我一个 69 岁的老同志'马保国. 适合做反击/调侃/江湖.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 年轻人不讲武德, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "意大利炮",
+      "source": "亮剑李云龙",
+      "date": "经典持续",
+      "heat": "全网",
+      "domain": "战争梗",
+      "analysis": "李云龙喊'把我的意大利炮拉出来', 重火力请求. 适合做大招/反击.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 意大利炮. Visual setting per analysis: 李云龙喊'把我的意大利炮拉出来', 重火力请求. 适合做大招/反击.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 意大利炮. 视觉设定: 李云龙喊'把我的意大利炮拉出来', 重火力请求. 适合做大招/反击.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 意大利炮, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "大哥别杀我",
+      "source": "大话西游周星驰",
+      "date": "经典",
+      "heat": "全网",
+      "domain": "求饶梗",
+      "analysis": "周星驰电影名台词. 适合做求饶/反差/搞笑.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 大哥别杀我. Visual setting per analysis: 周星驰电影名台词. 适合做求饶/反差/搞笑.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 大哥别杀我. 视觉设定: 周星驰电影名台词. 适合做求饶/反差/搞笑.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 大哥别杀我, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "我吃面给你看",
+      "source": "面食爱好者",
+      "date": "2024",
+      "heat": "千万",
+      "domain": "美食梗",
+      "analysis": "网红吃面拍特写'我吃面给你看', 食欲诱惑. 适合做美食/吃播.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 我吃面给你看. Visual setting per analysis: 网红吃面拍特写'我吃面给你看', 食欲诱惑. 适合做美食/吃播.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 我吃面给你看. 视觉设定: 网红吃面拍特写'我吃面给你看', 食欲诱惑. 适合做美食/吃播.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 我吃面给你看, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "打工人打工魂",
+      "source": "996 自嘲",
+      "date": "2020-持续",
+      "heat": "全网共识",
+      "domain": "职场梗",
+      "analysis": "'打工人打工魂, 打工都是人上人' 996 自嘲. 适合做职场/苦累.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 打工人打工魂. Visual setting per analysis: '打工人打工魂, 打工都是人上人' 996 自嘲. 适合做职场/苦累.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 打工人打工魂. 视觉设定: '打工人打工魂, 打工都是人上人' 996 自嘲. 适合做职场/苦累.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 打工人打工魂, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "yyds 永远的神",
+      "source": "yong yuan de shen",
+      "date": "2021 持续",
+      "heat": "全网",
+      "domain": "夸赞梗",
+      "analysis": "'永远的神 = yyds' 网络夸赞缩写. 适合做夸人/偶像.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: yyds 永远的神. Visual setting per analysis: '永远的神 = yyds' 网络夸赞缩写. 适合做夸人/偶像.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: yyds 永远的神. 视觉设定: '永远的神 = yyds' 网络夸赞缩写. 适合做夸人/偶像.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: yyds 永远的神, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "绝绝子",
+      "source": "形容词加强",
+      "date": "2021-22",
+      "heat": "全网",
+      "domain": "夸赞梗",
+      "analysis": "形容好到极致, 'XX 绝绝子'. 适合做夸赞.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 绝绝子. Visual setting per analysis: 形容好到极致, 'XX 绝绝子'. 适合做夸赞.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 绝绝子. 视觉设定: 形容好到极致, 'XX 绝绝子'. 适合做夸赞.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 绝绝子, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "栓 Q",
+      "source": "Thank you 谐音",
+      "date": "2022 持续",
+      "heat": "广泛",
+      "domain": "感谢梗",
+      "analysis": "Thank you → 栓 Q, 谐音搞笑. 适合做感谢/反讽.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 栓 Q. Visual setting per analysis: Thank you → 栓 Q, 谐音搞笑. 适合做感谢/反讽.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 栓 Q. 视觉设定: Thank you → 栓 Q, 谐音搞笑. 适合做感谢/反讽.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 栓 Q, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "我太难了",
+      "source": "崔斯特拉演员",
+      "date": "2019 起持续",
+      "heat": "全网",
+      "domain": "无奈梗",
+      "analysis": "崔斯特拉'我太难了'/'我太南了' 自嘲生活. 适合做苦诉/自嘲.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 我太难了. Visual setting per analysis: 崔斯特拉'我太难了'/'我太南了' 自嘲生活. 适合做苦诉/自嘲.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 我太难了. 视觉设定: 崔斯特拉'我太难了'/'我太南了' 自嘲生活. 适合做苦诉/自嘲.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 我太难了, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "3 米外秒躲",
+      "source": "防嗮防晒",
+      "date": "2024",
+      "heat": "千万",
+      "domain": "夏季梗",
+      "analysis": "夏天怕嗮防嗮, 3 米外秒躲. 适合做夏季/防嗮.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 3 米外秒躲. Visual setting per analysis: 夏天怕嗮防嗮, 3 米外秒躲. 适合做夏季/防嗮.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 3 米外秒躲. 视觉设定: 夏天怕嗮防嗮, 3 米外秒躲. 适合做夏季/防嗮.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 3 米外秒躲, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "社畜下班",
+      "source": "社会畜生自嘲",
+      "date": "2018-持续",
+      "heat": "全网",
+      "domain": "职场自嘲梗",
+      "analysis": "'社畜' = 社会畜生, 下班自嘲. 适合做职场/苦累.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 社畜下班. Visual setting per analysis: '社畜' = 社会畜生, 下班自嘲. 适合做职场/苦累.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 社畜下班. 视觉设定: '社畜' = 社会畜生, 下班自嘲. 适合做职场/苦累.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 社畜下班, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "摸鱼",
+      "source": "上班划水",
+      "date": "经典持续",
+      "heat": "全网共识",
+      "domain": "职场梗",
+      "analysis": "上班摸鱼 = 划水偷懒. 适合做职场/划水.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 摸鱼. Visual setting per analysis: 上班摸鱼 = 划水偷懒. 适合做职场/划水.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 摸鱼. 视觉设定: 上班摸鱼 = 划水偷懒. 适合做职场/划水.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 摸鱼, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "emo 了",
+      "source": "情绪低落",
+      "date": "2021-持续",
+      "heat": "全网",
+      "domain": "情绪梗",
+      "analysis": "emotional → emo, 情绪低落. 适合做悲伤/情绪.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: emo 了. Visual setting per analysis: emotional → emo, 情绪低落. 适合做悲伤/情绪.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: emo 了. 视觉设定: emotional → emo, 情绪低落. 适合做悲伤/情绪.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: emo 了, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "橘 = 重的橘",
+      "source": "橘猫胖",
+      "date": "经典持续",
+      "heat": "全网",
+      "domain": "动物梗",
+      "analysis": "橘猫 = 胖到走不动, 'a fat orange cat'. 适合做猫/萌系.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 橘 = 重的橘. Visual setting per analysis: 橘猫 = 胖到走不动, 'a fat orange cat'. 适合做猫/萌系.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 橘 = 重的橘. 视觉设定: 橘猫 = 胖到走不动, 'a fat orange cat'. 适合做猫/萌系.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 橘 = 重的橘, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "电子猫猫",
+      "source": "线上撸猫",
+      "date": "2022-23",
+      "heat": "千万",
+      "domain": "云宠物梗",
+      "analysis": "网上看猫视频代替养, 解压. 适合做宠物/解压.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 电子猫猫. Visual setting per analysis: 网上看猫视频代替养, 解压. 适合做宠物/解压.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 电子猫猫. 视觉设定: 网上看猫视频代替养, 解压. 适合做宠物/解压.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 电子猫猫, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "狗狗坐",
+      "source": "狗摆 sit 姿势",
+      "date": "2023-25",
+      "heat": "千万",
+      "domain": "狗狗梗",
+      "analysis": "训狗 'sit' 狗狗端坐, 萌系训练. 适合做狗狗/宠物.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 狗狗坐. Visual setting per analysis: 训狗 'sit' 狗狗端坐, 萌系训练. 适合做狗狗/宠物.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 狗狗坐. 视觉设定: 训狗 'sit' 狗狗端坐, 萌系训练. 适合做狗狗/宠物.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 狗狗坐, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "猫娘乙女",
+      "source": "二次元少女",
+      "date": "经典持续",
+      "heat": "二次元",
+      "domain": "二次元梗",
+      "analysis": "猫娘 = 二次元喵咪少女角色. 适合做二次元/Cosplay.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 猫娘乙女. Visual setting per analysis: 猫娘 = 二次元喵咪少女角色. 适合做二次元/Cosplay.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 猫娘乙女. 视觉设定: 猫娘 = 二次元喵咪少女角色. 适合做二次元/Cosplay.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 猫娘乙女, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "豆豆龙",
+      "source": "宫崎骏龙猫",
+      "date": "经典持续",
+      "heat": "动漫",
+      "domain": "经典动漫梗",
+      "analysis": "龙猫 'totoro', 童年治愈系. 适合做治愈/童年/动漫.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 豆豆龙. Visual setting per analysis: 龙猫 'totoro', 童年治愈系. 适合做治愈/童年/动漫.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 豆豆龙. 视觉设定: 龙猫 'totoro', 童年治愈系. 适合做治愈/童年/动漫.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 豆豆龙, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "贾跃亭下周回国",
+      "source": "乐视贾跃亭跑路梗",
+      "date": "2017-持续",
+      "heat": "财经圈",
+      "domain": "财经历史梗",
+      "analysis": "贾跃亭跑美国后, 每年说'下周回国', 至今未归. 适合做拖延/承诺/财经.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 贾跃亭下周回国. Visual setting per analysis: 贾跃亭跑美国后, 每年说'下周回国', 至今未归. 适合做拖延/承诺/财经.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 贾跃亭下周回国. 视觉设定: 贾跃亭跑美国后, 每年说'下周回国', 至今未归. 适合做拖延/承诺/财经.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 贾跃亭下周回国, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "北京最难考的菜",
+      "source": "北京胡同饭馆",
+      "date": "2023-25",
+      "heat": "千万",
+      "domain": "美食地域梗",
+      "analysis": "北京胡同里要排队几个月才能吃到的菜. 适合做地域/美食/排队.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 北京最难考的菜. Visual setting per analysis: 北京胡同里要排队几个月才能吃到的菜. 适合做地域/美食/排队.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 北京最难考的菜. 视觉设定: 北京胡同里要排队几个月才能吃到的菜. 适合做地域/美食/排队.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 北京最难考的菜, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "打地鼠式管理",
+      "source": "管理学问题",
+      "date": "2024",
+      "heat": "职场圈",
+      "domain": "管理梗",
+      "analysis": "出一个问题打一个, 不解决根本原因. 适合做职场/管理/反讽.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 打地鼠式管理. Visual setting per analysis: 出一个问题打一个, 不解决根本原因. 适合做职场/管理/反讽.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 打地鼠式管理. 视觉设定: 出一个问题打一个, 不解决根本原因. 适合做职场/管理/反讽.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 打地鼠式管理, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "早八人/早 5 人",
+      "source": "早起族",
+      "date": "2024-25",
+      "heat": "千万",
+      "domain": "时间管理梗",
+      "analysis": "早 8 点起的 / 早 5 点起的, 自律对比. 适合做时间/自律.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 早八人/早 5 人. Visual setting per analysis: 早 8 点起的 / 早 5 点起的, 自律对比. 适合做时间/自律.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 早八人/早 5 人. 视觉设定: 早 8 点起的 / 早 5 点起的, 自律对比. 适合做时间/自律.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 早八人/早 5 人, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "特种兵旅行",
+      "source": "学生 48h 极限游",
+      "date": "2023 起",
+      "heat": "千万",
+      "domain": "穷游梗",
+      "analysis": "周末乘绿皮车去远方 48h 来回, 学生流行. 适合做旅行/学生/穷游.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 特种兵旅行. Visual setting per analysis: 周末乘绿皮车去远方 48h 来回, 学生流行. 适合做旅行/学生/穷游.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 特种兵旅行. 视觉设定: 周末乘绿皮车去远方 48h 来回, 学生流行. 适合做旅行/学生/穷游.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 特种兵旅行, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "内卷",
+      "source": "教育竞争",
+      "date": "2020-持续",
+      "heat": "全网共识",
+      "domain": "竞争梗",
+      "analysis": "'内卷' 形容无意义内部竞争. 适合做职场/教育/反内卷.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 内卷. Visual setting per analysis: '内卷' 形容无意义内部竞争. 适合做职场/教育/反内卷.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 内卷. 视觉设定: '内卷' 形容无意义内部竞争. 适合做职场/教育/反内卷.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 内卷, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "躺平",
+      "source": "拒绝内卷",
+      "date": "2021-持续",
+      "heat": "全网共识",
+      "domain": "反竞争梗",
+      "analysis": "'躺平' 主动选不奋斗. 适合做生活态度/反内卷.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 躺平. Visual setting per analysis: '躺平' 主动选不奋斗. 适合做生活态度/反内卷.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 躺平. 视觉设定: '躺平' 主动选不奋斗. 适合做生活态度/反内卷.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 躺平, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "塞尔达林克",
+      "source": "塞尔达传说",
+      "date": "经典持续",
+      "heat": "游戏圈",
+      "domain": "经典游戏梗",
+      "analysis": "塞尔达主角林克, 开放世界探索. 适合做开放世界/冒险.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 塞尔达林克. Visual setting per analysis: 塞尔达主角林克, 开放世界探索. 适合做开放世界/冒险.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 塞尔达林克. 视觉设定: 塞尔达主角林克, 开放世界探索. 适合做开放世界/冒险.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 塞尔达林克, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "原神启动",
+      "source": "原神玩家",
+      "date": "2020-持续",
+      "heat": "游戏圈",
+      "domain": "二次元游戏梗",
+      "analysis": "'原神启动 mhy' 原神玩家自嘲. 适合做二次元/游戏.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 原神启动. Visual setting per analysis: '原神启动 mhy' 原神玩家自嘲. 适合做二次元/游戏.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 原神启动. 视觉设定: '原神启动 mhy' 原神玩家自嘲. 适合做二次元/游戏.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 原神启动, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "元宇宙",
+      "source": "VR/AR 概念",
+      "date": "2021-23",
+      "heat": "科技圈",
+      "domain": "概念营销梗",
+      "analysis": "Meta + 元宇宙概念, 后期热度下降. 适合做科技/泡沫.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 元宇宙. Visual setting per analysis: Meta + 元宇宙概念, 后期热度下降. 适合做科技/泡沫.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 元宇宙. 视觉设定: Meta + 元宇宙概念, 后期热度下降. 适合做科技/泡沫.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 元宇宙, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "CSGO 退役",
+      "source": "电竞老兵退役",
+      "date": "2024-25",
+      "heat": "电竞圈",
+      "domain": "电竞梗",
+      "analysis": "CSGO 选手退役, 时代结束感. 适合做告别/电竞.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: CSGO 退役. Visual setting per analysis: CSGO 选手退役, 时代结束感. 适合做告别/电竞.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: CSGO 退役. 视觉设定: CSGO 选手退役, 时代结束感. 适合做告别/电竞.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: CSGO 退役, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "瓦罗兰特新手",
+      "source": "新游戏",
+      "date": "2024-25",
+      "heat": "电竞圈",
+      "domain": "新游戏梗",
+      "analysis": "瓦罗兰特 = 拳头 FPS, 新手大量. 适合做电竞/新手.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 瓦罗兰特新手. Visual setting per analysis: 瓦罗兰特 = 拳头 FPS, 新手大量. 适合做电竞/新手.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 瓦罗兰特新手. 视觉设定: 瓦罗兰特 = 拳头 FPS, 新手大量. 适合做电竞/新手.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 瓦罗兰特新手, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "螺蛳粉",
+      "source": "广西米粉",
+      "date": "2019-持续",
+      "heat": "全网爱",
+      "domain": "美食地域梗",
+      "analysis": "广西螺蛳粉, 臭香美味. 适合做美食/广西/嗅觉.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 螺蛳粉. Visual setting per analysis: 广西螺蛳粉, 臭香美味. 适合做美食/广西/嗅觉.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 螺蛳粉. 视觉设定: 广西螺蛳粉, 臭香美味. 适合做美食/广西/嗅觉.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 螺蛳粉, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "胡辣汤",
+      "source": "河南早餐",
+      "date": "经典持续",
+      "heat": "地域美食",
+      "domain": "美食梗",
+      "analysis": "河南胡辣汤早餐, 麻辣鲜香. 适合做美食/河南/早餐.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 胡辣汤. Visual setting per analysis: 河南胡辣汤早餐, 麻辣鲜香. 适合做美食/河南/早餐.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 胡辣汤. 视觉设定: 河南胡辣汤早餐, 麻辣鲜香. 适合做美食/河南/早餐.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 胡辣汤, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "奶茶续命",
+      "source": "年轻人喝奶茶",
+      "date": "2020 持续",
+      "heat": "全网",
+      "domain": "饮食梗",
+      "analysis": "工作累了喝奶茶续命. 适合做饮食/职场/年轻人.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 奶茶续命. Visual setting per analysis: 工作累了喝奶茶续命. 适合做饮食/职场/年轻人.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 奶茶续命. 视觉设定: 工作累了喝奶茶续命. 适合做饮食/职场/年轻人.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 奶茶续命, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "速食面文化",
+      "source": "学生速食",
+      "date": "经典持续",
+      "heat": "学生圈",
+      "domain": "速食梗",
+      "analysis": "学生宿舍速食面文化, 各种花式. 适合做学生/宿舍/速食.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 速食面文化. Visual setting per analysis: 学生宿舍速食面文化, 各种花式. 适合做学生/宿舍/速食.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 速食面文化. 视觉设定: 学生宿舍速食面文化, 各种花式. 适合做学生/宿舍/速食.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 速食面文化, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "外卖救命",
+      "source": "外卖依赖",
+      "date": "2020 持续",
+      "heat": "全网",
+      "domain": "便利梗",
+      "analysis": "懒人靠外卖续命. 适合做懒人/外卖/便利.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 外卖救命. Visual setting per analysis: 懒人靠外卖续命. 适合做懒人/外卖/便利.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 外卖救命. 视觉设定: 懒人靠外卖续命. 适合做懒人/外卖/便利.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 外卖救命, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "AI 替代我了吗",
+      "source": "AI 取代焦虑",
+      "date": "2023-持续",
+      "heat": "全网热议",
+      "domain": "AI 焦虑梗",
+      "analysis": "ChatGPT 火后大家担心被 AI 替代. 适合做 AI/职场焦虑.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: AI 替代我了吗. Visual setting per analysis: ChatGPT 火后大家担心被 AI 替代. 适合做 AI/职场焦虑.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: AI 替代我了吗. 视觉设定: ChatGPT 火后大家担心被 AI 替代. 适合做 AI/职场焦虑.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: AI 替代我了吗, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "数字游民",
+      "source": "远程办公",
+      "date": "2022-持续",
+      "heat": "新工作方式",
+      "domain": "新工作梗",
+      "analysis": "Digital Nomad, 边工作边旅行. 适合做远程/自由职业.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 数字游民. Visual setting per analysis: Digital Nomad, 边工作边旅行. 适合做远程/自由职业.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 数字游民. 视觉设定: Digital Nomad, 边工作边旅行. 适合做远程/自由职业.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 数字游民, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "银行存款",
+      "source": "存钱焦虑",
+      "date": "2024-25",
+      "heat": "财经圈",
+      "domain": "存钱梗",
+      "analysis": "年轻人开始存钱抗风险. 适合做财经/存钱.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 银行存款. Visual setting per analysis: 年轻人开始存钱抗风险. 适合做财经/存钱.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 银行存款. 视觉设定: 年轻人开始存钱抗风险. 适合做财经/存钱.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 银行存款, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "退休躺平指南",
+      "source": "提前退休",
+      "date": "2024-25",
+      "heat": "千万",
+      "domain": "退休梗",
+      "analysis": "年轻人计划提前躺平退休. 适合做生活规划/反内卷.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 退休躺平指南. Visual setting per analysis: 年轻人计划提前躺平退休. 适合做生活规划/反内卷.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 退休躺平指南. 视觉设定: 年轻人计划提前躺平退休. 适合做生活规划/反内卷.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 退休躺平指南, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "电子化身/数字分身",
+      "source": "AI 复制人",
+      "date": "2024-25",
+      "heat": "AI 圈",
+      "domain": "未来梗",
+      "analysis": "用 AI 创建数字分身代替自己直播/聊天. 适合做 AI 未来/克隆.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 电子化身/数字分身. Visual setting per analysis: 用 AI 创建数字分身代替自己直播/聊天. 适合做 AI 未来/克隆.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 电子化身/数字分身. 视觉设定: 用 AI 创建数字分身代替自己直播/聊天. 适合做 AI 未来/克隆.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 电子化身/数字分身, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "内卷大学生",
+      "source": "考试卷王",
+      "date": "2020-持续",
+      "heat": "学生圈",
+      "domain": "学业内卷梗",
+      "analysis": "图书馆通宵, 课程都满分. 适合做学生/内卷/竞争.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 内卷大学生. Visual setting per analysis: 图书馆通宵, 课程都满分. 适合做学生/内卷/竞争.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 内卷大学生. 视觉设定: 图书馆通宵, 课程都满分. 适合做学生/内卷/竞争.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 内卷大学生, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "躺平摆烂",
+      "source": "学习放弃",
+      "date": "2021-持续",
+      "heat": "学生圈",
+      "domain": "学业躺平梗",
+      "analysis": "拒绝内卷, 我就这样. 适合做学生/反竞争.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 躺平摆烂. Visual setting per analysis: 拒绝内卷, 我就这样. 适合做学生/反竞争.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 躺平摆烂. 视觉设定: 拒绝内卷, 我就这样. 适合做学生/反竞争.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 躺平摆烂, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "学习时长",
+      "source": "刷题刷夜",
+      "date": "经典持续",
+      "heat": "学生圈",
+      "domain": "学习梗",
+      "analysis": "晒每天学习几小时, 比谁努力. 适合做学习/挑战.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 学习时长. Visual setting per analysis: 晒每天学习几小时, 比谁努力. 适合做学习/挑战.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 学习时长. 视觉设定: 晒每天学习几小时, 比谁努力. 适合做学习/挑战.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 学习时长, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "英语六级",
+      "source": "考过六级",
+      "date": "经典持续",
+      "heat": "大学生",
+      "domain": "英语梗",
+      "analysis": "六级是大学生的痛, 反复刷. 适合做英语/考试.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 英语六级. Visual setting per analysis: 六级是大学生的痛, 反复刷. 适合做英语/考试.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 英语六级. 视觉设定: 六级是大学生的痛, 反复刷. 适合做英语/考试.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 英语六级, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "拼夕夕拼多多",
+      "source": "拼多多购物",
+      "date": "2018-持续",
+      "heat": "全网",
+      "domain": "购物梗",
+      "analysis": "拼多多 = 廉价 / 老板娘助力. 适合做购物/拼团.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 拼夕夕拼多多. Visual setting per analysis: 拼多多 = 廉价 / 老板娘助力. 适合做购物/拼团.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 拼夕夕拼多多. 视觉设定: 拼多多 = 廉价 / 老板娘助力. 适合做购物/拼团.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 拼夕夕拼多多, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "剪影海报",
+      "source": "黑白剪影",
+      "date": "经典持续",
+      "heat": "时尚",
+      "domain": "审美梗",
+      "analysis": "黑白剪影拍人物, 文艺. 适合做时尚/文艺.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 剪影海报. Visual setting per analysis: 黑白剪影拍人物, 文艺. 适合做时尚/文艺.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 剪影海报. 视觉设定: 黑白剪影拍人物, 文艺. 适合做时尚/文艺.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 剪影海报, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "白纸状态",
+      "source": "无修原图",
+      "date": "2024-25",
+      "heat": "美妆",
+      "domain": "化妆前后梗",
+      "analysis": "化妆前 vs 化妆后, 反差对比. 适合做美妆/反差.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 白纸状态. Visual setting per analysis: 化妆前 vs 化妆后, 反差对比. 适合做美妆/反差.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 白纸状态. 视觉设定: 化妆前 vs 化妆后, 反差对比. 适合做美妆/反差.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 白纸状态, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "回村三天",
+      "source": "都市回乡",
+      "date": "2024-25",
+      "heat": "千万",
+      "domain": "城乡反差梗",
+      "analysis": "都市白领回农村三天, 反差对比. 适合做城乡/生活差异.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 回村三天. Visual setting per analysis: 都市白领回农村三天, 反差对比. 适合做城乡/生活差异.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 回村三天. 视觉设定: 都市白领回农村三天, 反差对比. 适合做城乡/生活差异.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 回村三天, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "阿姨我不想努力了",
+      "source": "佛系态度",
+      "date": "2018-持续",
+      "heat": "全网",
+      "domain": "佛系梗",
+      "analysis": "面对长辈劝奋斗时反应'阿姨我不想努力了'. 适合做佛系/反内卷.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 阿姨我不想努力了. Visual setting per analysis: 面对长辈劝奋斗时反应'阿姨我不想努力了'. 适合做佛系/反内卷.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 阿姨我不想努力了. 视觉设定: 面对长辈劝奋斗时反应'阿姨我不想努力了'. 适合做佛系/反内卷.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 阿姨我不想努力了, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "世界这么大我想去看看",
+      "source": "辞职信经典",
+      "date": "2015-持续",
+      "heat": "全网",
+      "domain": "辞职梗",
+      "analysis": "经典辞职信'世界这么大', 旅行宣言. 适合做辞职/旅行/自由.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 世界这么大我想去看看. Visual setting per analysis: 经典辞职信'世界这么大', 旅行宣言. 适合做辞职/旅行/自由.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 世界这么大我想去看看. 视觉设定: 经典辞职信'世界这么大', 旅行宣言. 适合做辞职/旅行/自由.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 世界这么大我想去看看, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "加班到凌晨",
+      "source": "996 反思",
+      "date": "2018-持续",
+      "heat": "全网",
+      "domain": "职场加班梗",
+      "analysis": "拍凌晨办公室照, 反映 996. 适合做职场/加班/反思.",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 加班到凌晨. Visual setting per analysis: 拍凌晨办公室照, 反映 996. 适合做职场/加班/反思.. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 加班到凌晨. 视觉设定: 拍凌晨办公室照, 反映 996. 适合做职场/加班/反思.. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 加班到凌晨, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
+    },
+    {
+      "title": "富贵小狗AI助理",
+      "source": "本系统",
+      "date": "2026-05-27",
+      "heat": "老大私有",
+      "domain": "AI 助理梗",
+      "analysis": "富贵 = 老大的 AI 助理小狗, 听话/认错/学习/不敷衍. 微信 bot 三层架构 + cron 决策循环. 软萌乖巧, 不刻意伪装真人. 这条是富贵自己的标识梗, 元梗 (meta-meme).",
+      "prompts": {
+        "Sora": "Chinese short-form video meme reference: 富贵小狗AI助理. Visual setting per analysis: 富贵 = 老大的 AI 助理小狗, 听话/认错/学习/不敷衍. 微信 bot 三层架构 + cron 决策循环. 软萌乖巧, 不刻意伪装真人. 这条是富贵自己的. Cinematic documentary style with vertical 9:16, natural lighting, 8 seconds.",
+        "Kling": "抖音短视频梗: 富贵小狗AI助理. 视觉设定: 富贵 = 老大的 AI 助理小狗, 听话/认错/学习/不敷衍. 微信 bot 三层架构 + cron 决策循环. 软萌乖. 自然光, 9:16竖屏, 8 秒. 写实手持质感.",
+        "Pika": "Chinese internet meme: 富贵小狗AI助理, vertical 9:16, natural light, 8s, handheld documentary feel"
+      },
+      "characters": {
+        "game": [],
+        "blogger": []
+      },
+      "note": "富贵从训练知识整理 (非实时刷取). 老大可让小学/橙子刷抖音补最新."
     }
   ],
   "_generated_by": "build_prompts.py from schemas/meme_schemas.json"
